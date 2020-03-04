@@ -1,10 +1,11 @@
 const Entities = require("../models/Entities");
-const entitiyData = require('../db/entities.json')
+const entitiyData = require("../db/entities.json");
 
 Entities.remove({});
 Entities.create(entitiyData)
-.then(entities => {
+  .then(entities => {
     console.log(entities);
-}).catch(err => {
+  })
+  .catch(err => {
     console.log(err);
-})
+  });

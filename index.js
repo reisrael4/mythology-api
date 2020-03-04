@@ -27,6 +27,16 @@ app.get("/entities/:name", (req, res) => {
   });
 });
 
+app.get("/entities/:work", (req, res) => {
+  Entities.find({}).then(entities => {
+    Entities.forEach(doc => {
+      if (doc.works.includes(req.params.work)) {
+        return res.json(entities);
+      }
+    });
+  });
+});
+
 app.listen(3000, () =>
   console.log("Is your server running? Better go catch it!")
 );
