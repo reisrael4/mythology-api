@@ -1,7 +1,7 @@
 const mongoose = require("../db/connection");
 const Schema = mongoose.Schema;
 
-const entitySchema = new Schema({
+const listSchema = new Schema({
   en_name: String,
   desc: String,
   link: String,
@@ -10,4 +10,4 @@ const entitySchema = new Schema({
   slug: String
 });
 
-module.exports = mongoose.model("Entities", entitySchema);
+module.exports = mongoose.model("List", listSchema);
