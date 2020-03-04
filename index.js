@@ -33,6 +33,12 @@ app.get("/list/work/:work", (req, res) => {
   });
 });
 
+app.post("/list", (req, res) => {
+  List.create(req.body).then(item => {
+    res.json(item);
+  });
+});
+
 app.listen(3000, () =>
   console.log("Is your server running? Better go catch it!")
 );
