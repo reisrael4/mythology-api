@@ -1,4 +1,4 @@
-const Entities = require("../models/Entities");
+const Entities = require("../models/List");
 const entitiyData = require("../db/entities.json");
 
 Entities.remove({});

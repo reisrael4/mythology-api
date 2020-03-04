@@ -1,35 +1,35 @@
 const express = require("express");
 const app = express();
 const parser = require("body-parser");
-const Entities = require("./models/Entities");
+const List = require("./models/List");
 
 app.use(parser.json());
 
 app.get("/", (req, res) => {
-  return res.redirect("/entities");
+  return res.redirect("/list");
 });
 
-app.get("/entities", (req, res) => {
-  Entities.find({}).then(entities => {
-    res.json(entities);
+app.get("/list", (req, res) => {
+  List.find({}).then(list => {
+    res.json(list);
   });
 });
 
-app.get("/entities/:id", (req, res) => {
-  Entities.findOne({ _id: req.params.id }).then(entities => {
-    res.json(entities);
+app.get("/list/:id", (req, res) => {
+  List.findOne({ _id: req.params.id }).then(list => {
+    res.json(list);
   });
 });
 
-app.get("/entities/name/:name", (req, res) => {
-  Entities.findOne({ en_name: req.params.name }).then(entities => {
-    res.json(entities);
+app.get("/list/name/:name", (req, res) => {
+  List.findOne({ en_name: req.params.name }).then(list => {
+    res.json(list);
   });
 });
 
-app.get("/entities/work/:work", (req, res) => {
-  Entities.find({ $elemMatch: { works: req.params.work } }).then(entities => {
-    res.json(entities);
+app.get("/list/work/:work", (req, res) => {
+  List.find({ works: req.params.work }).then(list => {
+    res.json(list);
   });
 });
 

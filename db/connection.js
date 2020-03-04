@@ -1,3 +1,3 @@
 const mongoose = require("mongoose");
-mongoose.connect("mongodb://localhost/entities", { useNewUrlParser: true });
+mongoose.connect("mongodb://localhost/list", { useNewUrlParser: true });
 module.exports = mongoose;
