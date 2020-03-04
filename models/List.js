@@ -10,4 +10,4 @@ const listSchema = new Schema({
   slug: String
 });
 
-module.exports = mongoose.model("List", listSchema);
+module.exports = mongoose.model("List", listSchema, "items");
