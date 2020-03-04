@@ -21,19 +21,15 @@ app.get("/entities/:id", (req, res) => {
   });
 });
 
-app.get("/entities/:name", (req, res) => {
-  Entities.findOne({ name: req.params.name }).then(entities => {
+app.get("/entities/name/:name", (req, res) => {
+  Entities.findOne({ en_name: req.params.name }).then(entities => {
     res.json(entities);
   });
 });
 
-app.get("/entities/:work", (req, res) => {
-  Entities.find({}).then(entities => {
-    Entities.forEach(doc => {
-      if (doc.works.includes(req.params.work)) {
-        return res.json(entities);
-      }
-    });
+app.get("/entities/work/:work", (req, res) => {
+  Entities.find({ $elemMatch: { works: req.params.work } }).then(entities => {
+    res.json(entities);
   });
 });
 
