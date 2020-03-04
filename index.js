@@ -21,6 +21,12 @@ app.get("/entities/:id", (req, res) => {
   });
 });
 
+app.get("/entities/:name", (req, res) => {
+  Entities.findOne({ name: req.params.name }).then(entities => {
+    res.json(entities);
+  });
+});
+
 app.listen(3000, () =>
   console.log("Is your server running? Better go catch it!")
 );
