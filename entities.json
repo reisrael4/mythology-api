@@ -1,0 +1,1771 @@
+[{
+    "_id": {
+        "$oid": "54bd5a48b7efdad76ec454f8"
+    },
+    "en_name": "acestes",
+    "desc": "In Roman mythology, Acestes or Egestes (Greek Ἄκέστης) was the son of the Sicilian river-god Crinisus by a Dardanian or Trojan woman named Egesta or Segesta.[1]",
+    "link": "http://en.wikipedia.org/wiki/Acestes",
+    "thumbnail": "",
+    "works": ["aeneid"],
+    "slug": "acestes"
+}, {
+    "_id": {
+        "$oid": "54bd5a91b7efdad76ec454f9"
+    },
+    "en_name": "achaea",
+    "desc": "Achaea (/əˈkiːə/) or Achaia (/əˈkaɪə/), sometimes transliterated from Greek as Akhaïa[1] (Greek: Αχαΐα Achaïa, [axaˈia]), is one of the regional units of Greece. It is part of the region of West Greece and is situated in the northwestern part of the Peloponnese peninsula. The capital is Patras. Since 2001, the population has exceeded 300,000.",
+    "link": "http://en.wikipedia.org/wiki/Achaea",
+    "thumbnail": "/img/entity_achaea.svg",
+    "works": [],
+    "slug": "achaea"
+}, {
+    "_id": {
+        "$oid": "54bd5ad9b7efdad76ec454fa"
+    },
+    "en_name": "achates",
+    "desc": "In the Aeneid, Achates (\"good, faithful Achates\", fidus Achates as he was called) was a close friend of Aeneas; his name became a by-word for an intimate companion. He accompanied Aeneas throughout his adventures, reaching Carthage with him in disguise when the pair were scouting the area, and leading him to the Sibyl of Cumae. Virgil represents him as remarkable for his fidelity, and a perennial type of that virtue. However, despite being Aeneas's most important Trojan, he is notable for his lack of character development. In fact, he has only one spoken line in the entire epic. Aeneas, surrounded by only a shadowy cast of allies, is thus emphasised as the lone protagonist and at the same time cut off from help on his quest.[1]",
+    "link": "http://en.wikipedia.org/wiki/Achates",
+    "thumbnail": "/img/entity_achates.jpg",
+    "works": ["aeneid"],
+    "slug": "achates"
+}, {
+    "_id": {
+        "$oid": "54bd5b22b7efdad76ec454fb"
+    },
+    "en_name": "acheron",
+    "desc": "The Acheron (/ˈækərən/; Ancient Greek: Ἀχέρων (Acheron)[1] or Ἀχερούσιος (Acherusius); Modern Greek: Αχέροντας (Acherontas)) is a river located in the Epirus region of northwest Greece. Its source is near the village Zotiko, in the southwestern part of the Ioannina regional unit it flows into the Ionian Sea in Ammoudia, near Parga.",
+    "link": "http://en.wikipedia.org/wiki/Acheron",
+    "thumbnail": "/img/entity_acheron.jpg",
+    "works": ["georgics", "aeneid"],
+    "slug": "acheron"
+}, {
+    "_id": {
+        "$oid": "54bd5b6ab7efdad76ec454fc"
+    },
+    "en_name": "achilles",
+    "desc": "In Greek mythology, Achilles (/əˈkɪliːz/; Ancient Greek: Ἀχιλλεύς, Akhilleus, pronounced [akʰilːéu̯s]) was a Greek hero of the Trojan War and the central character and greatest warrior of Homer's Iliad. His mother was the nymph Thetis, and his father, Peleus, was the king of the Myrmidons.",
+    "link": "http://en.wikipedia.org/wiki/Achilles",
+    "thumbnail": "/img/entity_achilles.jpg",
+    "works": ["georgics", "aeneid", "eclogues"],
+    "slug": "achilles"
+}, {
+    "_id": {
+        "$oid": "54bd5bb3b7efdad76ec454fd"
+    },
+    "en_name": "actium",
+    "desc": "Actium (Greek: Ἄκτιον) was the ancient name of a promontory of western Greece in northwestern Acarnania, at the mouth of the Sinus Ambracius (Gulf of Arta) opposite Nicopolis, built by Augustus on the north side of the strait.[1]",
+    "link": "http://en.wikipedia.org/wiki/Actium",
+    "thumbnail": "/img/entity_actium.svg",
+    "works": ["georgics", "aeneid"],
+    "slug": "actium"
+}, {
+    "_id": {
+        "$oid": "54bd5bfbb7efdad76ec454fe"
+    },
+    "en_name": "aeneas",
+    "desc": "In Greco-Roman mythology, Aeneas (/ɪˈniːəs/; Greek: Αἰνείας, Aineías, possibly derived from Greek αἰνή meaning \"praised\") was a Trojan hero, the son of the prince Anchises and the goddess Venus (Aphrodite). His father was the second cousin of King Priam of Troy, making Aeneas Priam's second cousin, once removed. He is a character in Greek mythology and is mentioned in Homer's Iliad. Aeneas receives full treatment in Roman mythology, most extensively in Virgil's Aeneid where he is an ancestor of Romulus and Remus. He became the first true hero of Rome.",
+    "link": "http://en.wikipedia.org/wiki/Aeneas",
+    "thumbnail": "/img/entity_aeneas.jpg",
+    "works": ["georgics", "aeneid"],
+    "slug": "aeneas"
+}, {
+    "_id": {
+        "$oid": "54bd5c45b7efdad76ec454ff"
+    },
+    "en_name": "aeolus",
+    "desc": "Aeolus[1] (/iːˈoʊləs/; Ancient Greek: Αἴολος, Aiolos [a͜ɪ́olos], Modern Greek: [ˈe.o.los] ( listen)), a name shared by three mythical characters, was the ruler of the winds in Greek mythology. These three personages are often difficult to tell apart, and even the ancient mythographers appear to have been perplexed about which Aeolus was which. Diodorus Siculus made an attempt to define each of these three (although it is clear he also became muddled), and his opinion is followed here.[2] Briefly, the first Aeolus was a son of Hellen and eponymous founder of the Aeolian race; the second was a son of Poseidon, who led a colony to islands in the Tyrrhenian Sea; and the third Aeolus was a son of Hippotes who is mentioned in Odyssey book 10 as Keeper of the Winds who gives Odysseus a tightly closed bag full of the captured winds so he could sail easily home to Ithaca on the gentle West Wind. But instead his men thought it was filled with riches, so they opened it, unleashing a hurricane, which is why the journey was extended. All three men named Aeolus appear to be connected genealogically, although the precise relationship, especially regarding the second and third Aeolus, is often ambiguous.",
+    "link": "http://en.wikipedia.org/wiki/Aeolus",
+    "thumbnail": "/img/entity_aeolus.jpg",
+    "works": ["aeneid"],
+    "slug": "aeolus"
+}, {
+    "_id": {
+        "$oid": "54bd5c8db7efdad76ec45500"
+    },
+    "en_name": "africus",
+    "desc": "In ancient Greek religion and myth, the Anemoi (Greek: Ἄνεμοι, \"Winds\")[n 1] were Greek wind gods who were each ascribed a cardinal direction from which their respective winds came (see Classical compass winds), and were each associated with various seasons and weather conditions. They were sometimes represented as mere gusts of wind, at other times were personified as winged men, and at still other times were depicted as horses kept in the stables of the storm god Aeolus, who provided Odysseus with the Anemoi in the Odyssey. The Spartans were reported to sacrifice a horse to the winds on Mount Taygetus.[2] Astraeus, the astrological deity sometimes associated with Aeolus, and Eos, the goddess of the dawn, were the parents of the Anemoi, according to the Greek poet Hesiod.",
+    "link": "http://en.wikipedia.org/wiki/Africus",
+    "thumbnail": "/img/entity_africus.jpg",
+    "works": ["aeneid"],
+    "slug": "africus"
+}, {
+    "_id": {
+        "$oid": "54bd5cd7b7efdad76ec45501"
+    },
+    "en_name": "agamemnon",
+    "desc": "In Greek mythology, Agamemnon (/æɡəˈmɛmnɒn/; Greek: Ἀγαμέμνων from *Ἀγαμέδμων (from ἄγαν, \"very much\" and μέδομαι, \"think on\"),[1] \"very steadfast\") was the son of king Atreus and queen Aerope of Mycenae, the brother of Menelaus, the husband of Clytemnestra and the father of Iphigenia, Electra or Laodike (Λαοδίκη), Orestes and Chrysothemis.[2] Mythical legends make him the king of Mycenae or Argos, thought to be different names for the same area. When Helen, the wife of Menelaus, ran off with Paris of Troy, Agamemnon commanded the united Greek armed forces in the ensuing Trojan War.",
+    "link": "http://en.wikipedia.org/wiki/Agamemnon",
+    "thumbnail": "/img/entity_agamemnon.jpg",
+    "works": ["aeneid"],
+    "slug": "agamemnon"
+}, {
+    "_id": {
+        "$oid": "54bd5d1fb7efdad76ec45502"
+    },
+    "en_name": "agrippa",
+    "desc": "Marcus Vipsanius Agrippa (/əˈɡrɪpə/; 23 October or November 64/63 BC – 12 BC) was a Roman statesman, general and architect.[2] He was a close friend, son-in-law, and lieutenant to Augustus and was responsible for the construction of some of the most beautiful buildings in the history of Rome and for important military victories, most notably at the Battle of Actium against the forces of Mark Antony and Cleopatra. As a result of these victories Octavian became the first Roman Emperor, adopting the name of Augustus. Agrippa assisted Augustus in making Rome a city of marble[3] and renovating aqueducts to give all Romans, from every social class, access to the highest quality public services. He was responsible for the creation of many baths, porticoes and gardens and was once thought to have commissioned the construction of the Pantheon. Agrippa was also father-in-law to the second Emperor Tiberius, maternal grandfather to Caligula, and maternal great-grandfather to the Emperor Nero.",
+    "link": "http://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa",
+    "thumbnail": "/img/entity_agrippa.jpg",
+    "works": ["aeneid"],
+    "slug": "agrippa"
+}, {
+    "_id": {
+        "$oid": "54bd5df7b7efdad76ec45503"
+    },
+    "en_name": "ajax",
+    "desc": "Ajax or Aias (/ˈeɪdʒæks/ or /ˈaɪ.əs/; Ancient Greek: Αἴας, gen. Αἴαντος) was a mythological Greek hero, the son of King Telamon and Periboea, and the half-brother of Teucer.[1] He plays an important role in Homer's Iliad and in the Epic Cycle, a series of epic poems about the Trojan War. To distinguish him from Ajax, son of Oileus (Ajax the Lesser), he is called \"Telamonian Ajax,\" \"Greater Ajax,\" or \"Ajax the Great\". In Etruscan mythology, he is known as Aivas Tlamunus.",
+    "link": "http://en.wikipedia.org/wiki/Ajax_(mythology)",
+    "thumbnail": "/img/entity_ajax.jpg",
+    "works": [],
+    "slug": "ajax"
+}, {
+    "_id": {
+        "$oid": "54bd5e3fb7efdad76ec45504"
+    },
+    "en_name": "alba longa",
+    "desc": "Alba Longa (occasionally written Albalonga in Italian sources) was an ancient city of Latium[1] in central Italy, 12 miles (19 km) southeast of Rome,[2] in the Alban Hills. Founder and head of the Latin League, it was destroyed by Rome around the middle of the 7th century BC. In legend, Romulus and Remus, founders of Rome, had come from the royal dynasty of Alba Longa, which in Virgil's Aeneid had been the bloodline of Aeneas, a son of Venus.",
+    "link": "http://en.wikipedia.org/wiki/Alba_Longa",
+    "thumbnail": "/img/entity_alba_longa.jpg",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "alba-longa"
+}, {
+    "_id": {
+        "$oid": "54bd5ed0b7efdad76ec45505"
+    },
+    "en_name": "alecto",
+    "desc": "Alecto (Ancient Greek: Ἀληκτώ, English translation: \"the implacable or unceasing anger\") is one of the Erinyes, or Furies, in Greek mythology. According to Hesiod, she was the daughter of Gaea fertilized by the blood spilled from Uranus when Cronus castrated him. She is the sister of Tisiphone (Vengeance) and Megaera (Jealousy). Alecto is the Erinys with the job of castigating the moral crimes (such as anger), especially if they are against other people. Her function is similar to Nemesis, with the difference that Nemesis's function is to castigate crimes against the gods. Alecto appeared in Virgil's Aeneid, in Dante's Inferno, in the musical piece Music for a While by Purcell, in Miklós Zrínyi's Siege of Sziget, in the works of Dostoyevsky, and in Handel's Rinaldo HWV 7 in the Aria \"Sibillar gli angui d'Aletto\".",
+    "link": "http://en.wikipedia.org/wiki/Alecto",
+    "thumbnail": "",
+    "works": ["aeneid"],
+    "slug": "alecto"
+}, {
+    "_id": {
+        "$oid": "54bd5f61b7efdad76ec45506"
+    },
+    "en_name": "amata",
+    "desc": "Issue",
+    "link": "http://en.wikipedia.org/wiki/Amata",
+    "thumbnail": "",
+    "works": ["eclogues", "aeneid", "georgics"],
+    "slug": "amata"
+}, {
+    "_id": {
+        "$oid": "54bd5faab7efdad76ec45507"
+    },
+    "en_name": "amazons",
+    "desc": "The Amazons (Greek: Ἀμαζόνες, Amazónes, singular Ἀμαζών, Amazōn), also known as Oiorpata in Iranian and Scythian, were believed to have been a nation of all-female warriors in Greek mythology and Classical antiquity. Herodotus placed them in a region bordering Scythia in Sarmatia (modern territory of Ukraine). Other historiographers place them in Anatolia,[1] or sometimes Libya.[2]",
+    "link": "http://en.wikipedia.org/wiki/Amazons",
+    "thumbnail": "/img/entity_amazons.JPG",
+    "works": ["aeneid"],
+    "slug": "amazons"
+}, {
+    "_id": {
+        "$oid": "54bd5ff2b7efdad76ec45508"
+    },
+    "en_name": "anchises",
+    "desc": "In Greek mythology, Anchises (/ænˈkaɪsiːz/, an-KY-seez or (/æŋˈkaɪsiːz/ ang-KY-seez; Ancient Greek: Ἀγχίσης, pronounced [aŋkʰi͜ísɛ͜ɛs]) was the son of Capys and Themiste (daughter of Ilus, who was son of Tros). He was the father of Aeneas[1] and a prince from Dardania, a territory neighbouring Troy.",
+    "link": "http://en.wikipedia.org/wiki/Anchises",
+    "thumbnail": "/img/entity_anchises.jpg",
+    "works": ["aeneid"],
+    "slug": "anchises"
+}, {
+    "_id": {
+        "$oid": "54bd603bb7efdad76ec45509"
+    },
+    "en_name": "andromache",
+    "desc": "In Greek mythology, Andromache (/ænˈdrɒməkiː/; Ancient Greek: Ἀνδρομάχη) was the wife of Hector, daughter of Eetion, and sister to Podes. She was born and raised in the city of Cilician Thebe, over which her father ruled. The name means \"battle of a man\", from ἀνδρός (andros) \"of a man\" and μάχη (machē) \"battle\".[1]",
+    "link": "http://en.wikipedia.org/wiki/Andromache",
+    "thumbnail": "/img/entity_andromache.jpg",
+    "works": ["aeneid"],
+    "slug": "andromache"
+}, {
+    "_id": {
+        "$oid": "54bd6083b7efdad76ec4550a"
+    },
+    "en_name": "anna",
+    "desc": "",
+    "link": "http://en.wikipedia.org/wiki/Anna_(mythology)",
+    "thumbnail": "",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "anna"
+}, {
+    "_id": {
+        "$oid": "54bd60ccb7efdad76ec4550b"
+    },
+    "en_name": "antenor",
+    "desc": "Antenor (Greek: Ἀντήνωρ; fl. c. 540 – c. 500 BC)[1] was an Athenian sculptor, of the latter part of the 6th century BC. He was named after the mythological figure also called Antenor. He was the creator of the joint statues of the tyrannicides Harmodius and Aristogeiton, set up by the Athenians on the expulsion of Hippias. These statues were carried away by Xerxes I of Persia during the Greco-Persian Wars. A basis with the signature of Antenor, son of Eumares, has been shown to belong to one of the dedicated female figures of archaic style which have been found on the acropolis of his native city.",
+    "link": "http://en.wikipedia.org/wiki/Antenor",
+    "thumbnail": "",
+    "works": ["aeneid"],
+    "slug": "antenor"
+}, {
+    "_id": {
+        "$oid": "54bd6114b7efdad76ec4550c"
+    },
+    "en_name": "mark antony",
+    "desc": "Marcus Antonius (Latin: M·ANTONIVS·M·F·M·N;[note 1] January 14, 83 BC – August 1, 30 BC), commonly known in English as Mark Antony, was a Roman politician and general who played a critical role in the transformation of the Roman Republic from an oligarchy into the autocratic Roman Empire.",
+    "link": "http://en.wikipedia.org/wiki/Mark_Antony",
+    "thumbnail": "/img/entity_mark_antony.png",
+    "works": ["aeneid"],
+    "slug": "mark-antony"
+}, {
+    "_id": {
+        "$oid": "54bd61a4b7efdad76ec4550d"
+    },
+    "en_name": "apollo",
+    "desc": "Apollo (Attic, Ionic, and Homeric Greek: Ἀπόλλων, Apollōn (GEN Ἀπόλλωνος); Doric: Ἀπέλλων, Apellōn; Arcadocypriot: Ἀπείλων, Apeilōn; Aeolic: Ἄπλουν, Aploun; Latin: Apollō) is one of the most important and complex of the Olympian deities in classical Greek and Roman religion and Greek and Roman mythology. The ideal of the kouros (a beardless, athletic youth), Apollo has been variously recognized as a god of light and the sun, truth and prophecy, healing, plague, music, poetry, and more. Apollo is the son of Zeus and Leto, and has a twin sister, the chaste huntress Artemis. Apollo is known in Greek-influenced Etruscan mythology as Apulu.",
+    "link": "http://en.wikipedia.org/wiki/Apollo",
+    "thumbnail": "/img/entity_apollo.jpg",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "apollo"
+}, {
+    "_id": {
+        "$oid": "54bd6234b7efdad76ec4550e"
+    },
+    "en_name": "arcadia",
+    "desc": "Arcadia (Greek: Αρκαδία, Arkadía) is one of the regional units of Greece. It is part of the administrative region of Peloponnese. It is situated in the central and eastern part of the Peloponnese peninsula. It takes its name from the mythological character Arcas. In Greek mythology, it was the home of the god Pan. In European Renaissance arts, Arcadia was celebrated as an unspoiled, harmonious wilderness.",
+    "link": "http://en.wikipedia.org/wiki/Arcadia",
+    "thumbnail": "/img/entity_arcadia.svg",
+    "works": ["eclogues", "aeneid", "georgics"],
+    "slug": "arcadia"
+}, {
+    "_id": {
+        "$oid": "54bd627cb7efdad76ec4550f"
+    },
+    "en_name": "arethusa",
+    "desc": "Arethusa (/ˌærɨˈθjuːzə/; Ancient Greek: Ἀρέθουσα) means \"the waterer\". In Greek mythology, she was a nymph and daughter of Nereus (making her a Nereid),[1] who fled from her home in Arcadia beneath the sea and came up as a fresh water fountain on the island of Ortygia in Syracuse, Sicily.",
+    "link": "http://en.wikipedia.org/wiki/Arethusa_(mythology)",
+    "thumbnail": "/img/entity_arethusa.jpg",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "arethusa"
+}, {
+    "_id": {
+        "$oid": "54bd62c4b7efdad76ec45510"
+    },
+    "en_name": "argos",
+    "desc": "Argos (/ˈɑrɡɒs, -ɡəs/; Modern Greek: Άργος [ˈarɣos]; Ancient Greek: Ἄργος [árɡos]) is a city and a former municipality in Argolis, Peloponnese, Greece. Since the 2011 local government reform it is part of the municipality Argos-Mykines, of which it is a municipal unit.[2] It is 11 kilometres (7 miles) from Nafplion, which was its historic harbour. A home of great antiquity, Argos has been continuously inhabited as at least a substantial village for the past 7,000 years.[3] The city is a member of the Most Ancient European Towns Network.[4]",
+    "link": "http://en.wikipedia.org/wiki/Argos",
+    "thumbnail": "/img/entity_argos.JPG",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "argos"
+}, {
+    "_id": {
+        "$oid": "54bd630cb7efdad76ec45511"
+    },
+    "en_name": "argus",
+    "desc": "In Greek mythology, Argus (/ˈɑrɡəs/; Greek: Ἄργος Argos) was the king and eponym of Argos. He was a son of Zeus and Niobe, daughter of Phoroneus, and is possibly the brother of Pelasgus.[1] Argus succeeded to his maternal grandfather's power over Peloponnese, naming the kingdom after himself.[2] A scholiast on Homer calls Argus the son and successor of Apis.[3] Jerome and Eusebius, citing the now-lost history of Castor of Rhodes, also agree in making Argus the successor of Apis, and son of Zeus and Niobe, and give the length of his reign over \"Argeia\" (Argos) as 70 years.",
+    "link": "http://en.wikipedia.org/wiki/Argus_(mythology)",
+    "thumbnail": "/img/entity_argus.jpg",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "argus"
+}, {
+    "_id": {
+        "$oid": "54bd6354b7efdad76ec45512"
+    },
+    "en_name": "ascanius",
+    "desc": "Ascanius (/əˈskeɪniəs/) is a legendary king of Alba Longa and is the son of the Trojan hero Aeneas and Creusa, daughter of Priam. He is a character in Roman mythology, and has a divine lineage, being the son of Aeneas, who is son of goddess Venus and the hero Anchises, a relative of the king Priam; thus Ascanius has divine ascendents by both parents, being descendant of god Jupiter, his wife Juno and Dardanus. He is also an ancestor of Romulus, Remus and the Gens Julia. Together with his father, he is a major character in the Aeneid, and he is depicted as one of founders of the Roman race.",
+    "link": "http://en.wikipedia.org/wiki/Ascanius",
+    "thumbnail": "/img/entity_ascanius.jpg",
+    "works": ["aeneid", "georgics"],
+    "slug": "ascanius"
+}, {
+    "_id": {
+        "$oid": "54bd63e4b7efdad76ec45513"
+    },
+    "en_name": "atlas",
+    "desc": "An atlas is a collection of maps; it is typically a map of Earth or a region of Earth, but there are atlases of the other planets (and their satellites) in the Solar System. Furthermore atlases of anatomy exist, mapping out the human body or other organisms.[citation needed] Atlases have traditionally been bound into book form, but today many atlases are in multimedia formats. In addition to presenting geographic features and political boundaries, many atlases often feature geopolitical, social, religious and economic statistics. They also have information about the map and places in it.",
+    "link": "http://en.wikipedia.org/wiki/Atlas",
+    "thumbnail": "/img/entity_atlas.jpg",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "atlas"
+}, {
+    "_id": {
+        "$oid": "54bd642eb7efdad76ec45514"
+    },
+    "en_name": "augustus",
+    "desc": "Augustus (Latin: Imperator Caesar Divi Filius Augustus;[note 1][note 2] 23 September 63 BC – 19 August 14 AD) was the founder of the Roman Empire and its first Emperor, ruling from 27 BC until his death in 14 AD.[note 3]",
+    "link": "http://en.wikipedia.org/wiki/Augustus",
+    "thumbnail": "/img/entity_augustus.jpg",
+    "works": [],
+    "slug": "augustus"
+}, {
+    "_id": {
+        "$oid": "54bd654bb7efdad76ec45515"
+    },
+    "en_name": "ausonia",
+    "desc": "Ausonia is the ancient Greek name for lower Italy, extended poetically to all Italy.",
+    "link": "http://en.wikipedia.org/wiki/Ausonia",
+    "thumbnail": "",
+    "works": ["aeneid", "georgics"],
+    "slug": "ausonia"
+}, {
+    "_id": {
+        "$oid": "54bd6592b7efdad76ec45516"
+    },
+    "en_name": "bacchus",
+    "desc": "Dionysus (/daɪ.əˈnaɪsəs/; Greek: Διόνυσος, Dionysos) is the god of the grape harvest, winemaking and wine, of ritual madness, fertility,[2][3] theatre and religious ecstasy in Greek mythology. Alcohol, especially wine, played an important role in Greek culture with Dionysus being an important reason for this life style.[4] His name, thought to be a theonym in Linear B tablets as di-wo-nu-so (KH Gq 5 inscription),[5] shows that he may have been worshipped as early as c. 1500–1100 BC by Mycenean Greeks; other traces of the Dionysian-type cult have been found in ancient Minoan Crete.[6] His origins are uncertain, and his cults took many forms; some are described by ancient sources as Thracian, others as Greek.[7][8][9] In some cults, he arrives from the east, as an Asiatic foreigner; in others, from Ethiopia in the South. He is a god of epiphany, \"the god that comes\", and his \"foreignness\" as an arriving outsider-god may be inherent and essential to his cults. He is a major, popular figure of Greek mythology and religion, and is included in some lists of the twelve Olympians. Dionysus was the last god to be accepted into Mt. Olympus. He was the youngest and the only one to have a mortal mother.[10] His festivals were the driving force behind the development of Greek theatre. He is an example of a dying god.[11][12]",
+    "link": "http://en.wikipedia.org/wiki/Bacchus",
+    "thumbnail": "/img/entity_bacchus.jpg",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "bacchus"
+}, {
+    "_id": {
+        "$oid": "54bd65d9b7efdad76ec45517"
+    },
+    "en_name": "baiae",
+    "desc": "Baiae (in modern Italian Baia), a frazione of the comune of Bacoli in the Campania region of Italy, was a Roman seaside resort on the Bay of Naples. It was said to have been named after Baius, who was supposedly buried there. Baiae was for several hundred years a fashionable resort, especially towards the end of the Roman Republic. Baiae was even more popular than Pompeii, Herculaneum, and Capri with the super-rich, notorious for the hedonistic temptations on offer, and for rumours of scandal and corruption. Baiae was an integral part of Portus Julius, home port of the western Imperial Fleet of ancient Rome.",
+    "link": "http://en.wikipedia.org/wiki/Baiae",
+    "thumbnail": "/img/entity_baiae.jpg",
+    "works": ["aeneid"],
+    "slug": "baiae"
+}, {
+    "_id": {
+        "$oid": "54bd6620b7efdad76ec45518"
+    },
+    "en_name": "briareus",
+    "desc": "The Hekatonkheires, or Hecatoncheires or Hundred-Handers (hek-ə-TONK-ə-reez, /ˌhɛkəˈtɒŋkəriːz/; singular: Hekatonkheir; Greek: Ἑκατόγχειρες \"Hundred-Handed Ones\"; Latinised Centimani), were figures in an archaic stage of Greek mythology, three giants of incredible strength and ferocity that surpassed that of all the Titans, whom they helped overthrow. Their name derives from the Greek ἑκατόν (hekaton; \"hundred\") and χείρ (kheir; \"hand\"), \"each of them having a hundred hands and fifty heads\" (Bibliotheca). Hesiod's Theogony (624, 639, 714, 734–35) reports that the three Hekatonkheires became the guards of the gates of Tartarus.",
+    "link": "http://en.wikipedia.org/wiki/Briareus",
+    "thumbnail": "/img/entity_briareus.jpg",
+    "works": ["aeneid"],
+    "slug": "briareus"
+}, {
+    "_id": {
+        "$oid": "54bd6667b7efdad76ec45519"
+    },
+    "en_name": "brutus",
+    "desc": "Brutus is a cognomen of the Roman gens Junia, a prominent family of the Roman Republic. The plural of Brutus is Bruti, and the vocative form is Brute, as immortalized in the quotation \"Et tu, Brute?\", from Shakespeare's play, Julius Caesar.",
+    "link": "http://en.wikipedia.org/wiki/Brutus",
+    "thumbnail": "",
+    "works": ["aeneid"],
+    "slug": "brutus"
+}, {
+    "_id": {
+        "$oid": "54bd673eb7efdad76ec4551a"
+    },
+    "en_name": "cacus",
+    "desc": "In Roman mythology, Cacus was a fire-breathing giant and the son of Vulcan. He was killed by Hercules after terrorizing the Palatine Hill before the founding of Rome.[1]",
+    "link": "http://en.wikipedia.org/wiki/Cacus",
+    "thumbnail": "/img/entity_cacus.jpg",
+    "works": ["aeneid"],
+    "slug": "cacus"
+}, {
+    "_id": {
+        "$oid": "54bd6786b7efdad76ec4551b"
+    },
+    "en_name": "caesar",
+    "desc": "Gaius Julius Caesar[2] (Classical Latin: [ˈɡaː.i.ʊs ˈjuː.li.ʊs ˈkae̯.sar]; July 100[3] – 15 March 44 BC)[4] was a Roman general, statesman, Consul, and notable author of Latin prose. He played a critical role in the events that led to the demise of the Roman Republic and the rise of the Roman Empire. In 60 BC, Caesar, Crassus, and Pompey formed a political alliance that was to dominate Roman politics for several years. Their attempts to amass power through populist tactics were opposed by the conservative ruling class within the Roman Senate, among them Cato the Younger with the frequent support of Cicero. Caesar's victories in the Gallic Wars, completed by 51 BC, extended Rome's territory to the English Channel and the Rhine. Caesar became the first Roman general to cross both when he built a bridge across the Rhine and conducted the first invasion of Britain.",
+    "link": "http://en.wikipedia.org/wiki/Caesar",
+    "thumbnail": "/img/entity_caesar.jpg",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "caesar"
+}, {
+    "_id": {
+        "$oid": "54bd685bb7efdad76ec4551c"
+    },
+    "en_name": "camilla",
+    "desc": "In Roman mythology, Camilla of the Volsci was the daughter of King Metabus and Casmilla. Driven from his throne, Metabus was chased into the wilderness by armed Volsci, his infant daughter in his hands. The river Amasenus blocked his path, and, fearing for the child's welfare, Metabus bound her to a spear. He promised Diana that Camilla would be her servant, a warrior virgin. He then safely threw her to the other side, and swam across to retrieve her. The baby Camilla was suckled by a mare, and once her \"first firm steps had [been] taken, the small palms were armed with a keen javelin; her sire a bow and quiver from her shoulder slung.\"[1] She was raised in her childhood to be a huntress and kept the companionship of her father and the shepherds in the hills and woods.",
+    "link": "http://en.wikipedia.org/wiki/Camilla_(mythology)",
+    "thumbnail": "/img/entity_camilla.jpg",
+    "works": ["aeneid"],
+    "slug": "camilla"
+}, {
+    "_id": {
+        "$oid": "54bd68ebb7efdad76ec4551d"
+    },
+    "en_name": "carthage",
+    "desc": "The city of Carthage (/ˈkɑrθɪdʒ/) is a city in Tunisia and was the centre of the ancient Carthaginian civilization. The city developed from a Phoenician colony of the 1st millennium BC into the capital of an ancient empire.[2] The area of Carthage was before inhabited by Berber people who also became the bulk of Carthage's population and constituted a significant part of its army, economy and administration. Native Berbers and settling Phoenicians in Carthage mixed in different ways including religion and language, creating the Punic language and culture.[citation needed]",
+    "link": "http://en.wikipedia.org/wiki/Carthage",
+    "thumbnail": "/img/entity_carthage.JPG",
+    "works": ["aeneid"],
+    "slug": "carthage"
+}, {
+    "_id": {
+        "$oid": "54bd6933b7efdad76ec4551e"
+    },
+    "en_name": "cassandra",
+    "desc": "In Greek mythology, Cassandra (Greek: Κασσάνδρα, pronounced [kas̚sándra͜a], also Κασάνδρα), also known as Alexandra or Kassandra, was the daughter of King Priam and Queen Hecuba of Troy.",
+    "link": "http://en.wikipedia.org/wiki/Cassandra",
+    "thumbnail": "/img/entity_cassandra.jpeg",
+    "works": ["aeneid"],
+    "slug": "cassandra"
+}, {
+    "_id": {
+        "$oid": "54bd697ab7efdad76ec4551f"
+    },
+    "en_name": "catalina",
+    "desc": "Lucius Sergius Catilina, known in English as Catiline (/ˈkætəlaɪn/; 108–62 BC), was a Roman Senator of the 1st century BC best known for the second Catilinarian conspiracy, an attempt to overthrow the Roman Republic, and in particular the power of the aristocratic Senate.[1] Also known for several acquittals in court, including one for the charge of adultery with a Vestal Virgin.",
+    "link": "http://en.wikipedia.org/wiki/Lucius_Sergius_Catalina",
+    "thumbnail": "/img/entity_catalina.jpg",
+    "works": [],
+    "slug": "catalina"
+}, {
+    "_id": {
+        "$oid": "54bd6a50b7efdad76ec45520"
+    },
+    "en_name": "cato",
+    "desc": "Marcus Porcius Cato was the name of several ancient Roman men of the gens Porcia, including:",
+    "link": "http://en.wikipedia.org/wiki/Marcus_Porcius_Cato",
+    "thumbnail": "/img/entity_cato.jpg",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "cato"
+}, {
+    "_id": {
+        "$oid": "54bd6b2bb7efdad76ec45521"
+    },
+    "en_name": "celaeno",
+    "desc": "In Greek mythology, Celaeno (/sɨˈliːnoʊ/; Ancient Greek: Κελαινώ Kelaino, lit. 'the dark one', also Celeno or Kelaino, sometimes [misspelled] Calaeno) referred to several different figures.",
+    "link": "http://en.wikipedia.org/wiki/Celaeno",
+    "thumbnail": "",
+    "works": ["aeneid"],
+    "slug": "celaeno"
+}, {
+    "_id": {
+        "$oid": "54bd6b72b7efdad76ec45522"
+    },
+    "en_name": "centaurs",
+    "desc": "A centaur (/ˈsɛntɔːr/; Greek: Κένταυρος, Kéntauros, Latin: centaurus) or hippocentaur[1][2][3] is a mythological creature with the head, arms, and torso of a human and the body and legs of a horse.[4]",
+    "link": "http://en.wikipedia.org/wiki/Centaurs",
+    "thumbnail": "/img/entity_centaurs.jpg",
+    "works": ["georgics", "aeneid"],
+    "slug": "centaurs"
+}, {
+    "_id": {
+        "$oid": "54bd6bbab7efdad76ec45523"
+    },
+    "en_name": "cerberus",
+    "desc": "Cerberus (/ˈsɜrbərəs/;[1] Greek: Κέρβερος Kerberos [ˈkerberos]) in Greek and Roman mythology, is a multi-headed (usually three-headed) dog, or \"hellhound\" [1][2][3] with a serpent's tail, a mane of snakes, and lion's claws.[4] He guards the entrance of the underworld to prevent the dead from escaping and the living from entering. Cerberus is featured in many works of ancient Greek and Roman literature and in works of both ancient and modern art and architecture, although the depiction of Cerberus differs across various renditions. The most notable difference is the number of his heads: Most sources describe or depict three heads; others show Cerberus with two or even just one; a smaller number of sources show a variable number, sometimes as many as fifty or even a hundred.",
+    "link": "http://en.wikipedia.org/wiki/Cerberus",
+    "thumbnail": "/img/entity_cerberus.JPG",
+    "works": ["georgics", "aeneid"],
+    "slug": "cerberus"
+}, {
+    "_id": {
+        "$oid": "54bd6c02b7efdad76ec45524"
+    },
+    "en_name": "ceres",
+    "desc": "Ceres commonly refers to:",
+    "link": "http://en.wikipedia.org/wiki/Ceres",
+    "thumbnail": "",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "ceres"
+}, {
+    "_id": {
+        "$oid": "54bd6c4eb7efdad76ec45525"
+    },
+    "en_name": "charon",
+    "desc": "In Greek mythology, Charon or Kharon (/ˈkɛərɒn/ or /ˈkɛərən/; Greek Χάρων) is the ferryman of Hades who carries souls of the newly deceased across the rivers Styx and Acheron that divided the world of the living from the world of the dead. A coin to pay Charon for passage, usually an obolus or danake, was sometimes placed in or on the mouth of a dead person.[1] Some authors say that those who could not pay the fee, or those whose bodies were left unburied, had to wander the shores for one hundred years. In the catabasis mytheme, heroes – such as Heracles, Orpheus, Aeneas, Theseus, Sisyphus, Dionysus, Odysseus and Psyche – journey to the underworld and return, still alive, conveyed by the boat of Charon.",
+    "link": "http://en.wikipedia.org/wiki/Charon_(mythology)",
+    "thumbnail": "/img/entity_charon.jpg",
+    "works": ["aeneid"],
+    "slug": "charon"
+}, {
+    "_id": {
+        "$oid": "54bd6c96b7efdad76ec45526"
+    },
+    "en_name": "charybdis",
+    "desc": "Charybdis (/kəˈrɪbdɨs/; Greek: Χάρυβδις, pronounced [kʰárybdis], Kharybdis) was a sea monster, later rationalised as a whirlpool and considered a shipping hazard in the Strait of Messina.",
+    "link": "http://en.wikipedia.org/wiki/Charybdis",
+    "thumbnail": "/img/entity_charybdis.jpg",
+    "works": ["aeneid"],
+    "slug": "charybdis"
+}, {
+    "_id": {
+        "$oid": "54bd6cddb7efdad76ec45527"
+    },
+    "en_name": "circe",
+    "desc": "In Greek mythology, Circe (/ˈsɜrsiː/; Greek Κίρκη Kírkē pronounced [kírkɛ͜ɛ]) is a goddess of magic (or sometimes a nymph, witch, enchantress or sorceress). By most accounts, Circe was the daughter of Helios, the god of the sun, and Perse, an Oceanid. Her brothers were Aeetes, the keeper of the Golden Fleece, and Perses. Her sister was Pasiphaë, the wife of King Minos and mother of the Minotaur.[1] Other accounts make her the daughter of Hecate, the goddess of witchcraft herself.[2]",
+    "link": "http://en.wikipedia.org/wiki/Circe",
+    "thumbnail": "/img/entity_circe.jpg",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "circe"
+}, {
+    "_id": {
+        "$oid": "54bd6d26b7efdad76ec45528"
+    },
+    "en_name": "cocytus",
+    "desc": "Cocytus or Kokytos, meaning \"the river of wailing\" (from the Greek Κωκυτός, \"lamentation\"), is a river in the underworld in Greek mythology. Cocytus flows into the river Acheron, across which is the underworld, the mythological abode of the dead. There are five rivers encircling Hades. The River Styx is perhaps the most famous; the other rivers are Phlegethon, Lethe, and Acheron.",
+    "link": "http://en.wikipedia.org/wiki/Cocytus",
+    "thumbnail": "/img/entity_cocytus.jpg",
+    "works": ["georgics", "aeneid"],
+    "slug": "cocytus"
+}, {
+    "_id": {
+        "$oid": "54bd6d6db7efdad76ec45529"
+    },
+    "en_name": "corinth",
+    "desc": "Corinth (/ˈkɔrɪnθ/; Greek: Κόρινθος, Kórinthos, pronounced [ˈkorinθos] ( listen)) is a city and former municipality in Corinthia, Peloponnese, Greece. Since the 2011 local government reform it is part of the municipality Corinth, of which it is the seat and a municipal unit.[2] It is the capital of Corinthia.",
+    "link": "http://en.wikipedia.org/wiki/Corinth",
+    "thumbnail": "/img/entity_corinth.jpg",
+    "works": ["aeneid"],
+    "slug": "corinth"
+}, {
+    "_id": {
+        "$oid": "54bd6db5b7efdad76ec4552a"
+    },
+    "en_name": "crete",
+    "desc": "Crete (Greek: Κρήτη, Kríti ['kriti]; Ancient Greek: Κρήτη, Krḗtē) is the largest and most populous of the Greek islands, and the fifth-largest island in the Mediterranean Sea. Crete and a number of surrounding islands and islets constitute the region of Crete (Greek: Περιφέρεια Κρήτης), one of the 13 top-level administrative units of Greece. The capital and the largest city is Heraklion. As of 2011, the region had a population of 623,065.",
+    "link": "http://en.wikipedia.org/wiki/Crete",
+    "thumbnail": "/img/entity_crete.JPG",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "crete"
+}, {
+    "_id": {
+        "$oid": "54bd6dfcb7efdad76ec4552b"
+    },
+    "en_name": "creusa",
+    "desc": "In Greek mythology, four people had the name Creusa (/kriːˈuːsə/; Ancient Greek: Κρέουσα Kreousa); the name simply means \"princess\".",
+    "link": "http://en.wikipedia.org/wiki/Creusa",
+    "thumbnail": "/img/entity_creusa.jpg",
+    "works": ["aeneid"],
+    "slug": "creusa"
+}, {
+    "_id": {
+        "$oid": "54bd6e44b7efdad76ec4552c"
+    },
+    "en_name": "cumaean sibyl",
+    "desc": "The Cumaean Sibyl was the priestess presiding over the Apollonian oracle at Cumae, a Greek colony located near Naples, Italy. The word sibyl comes (via Latin) from the ancient Greek word sibylla, meaning prophetess. There were many sibyls in different locations throughout the ancient world. Because of the importance of the Cumaean Sibyl in the legends of early Rome as codified in Virgil's Aeneid VI, and because of her proximity to Rome, the Cumaean Sibyl became the most famous among the Romans. The Erythraean Sibyl from modern-day Turkey was famed among Greeks, as was the oldest Hellenic oracle, the Sibyl of Dodona, possibly dating to the second millennium BC according to Herodotus, favored in the east.",
+    "link": "http://en.wikipedia.org/wiki/Cumaean_Sibyl",
+    "thumbnail": "/img/entity_cumaean_sibyl.jpg",
+    "works": ["aeneid"],
+    "slug": "cumaean-sibyl"
+}, {
+    "_id": {
+        "$oid": "54bd6e8cb7efdad76ec4552d"
+    },
+    "en_name": "cupid",
+    "desc": "In classical mythology, Cupid (Latin Cupido, meaning \"desire\") is the god of desire, erotic love, attraction and affection. He is often portrayed as the son of the love goddess Venus, and is known in Latin also as Amor (\"Love\"). His Greek counterpart is Eros.[1]",
+    "link": "http://en.wikipedia.org/wiki/Cupid",
+    "thumbnail": "/img/entity_cupid.jpg",
+    "works": ["aeneid", "georgics"],
+    "slug": "cupid"
+}, {
+    "_id": {
+        "$oid": "54bd6f1cb7efdad76ec4552e"
+    },
+    "en_name": "cybele",
+    "desc": "Cybele (/ˈsɪbɨliː/; Phrygian: Matar Kubileya/Kubeleya \"Kubeleyan Mother\", perhaps \"Mountain Mother\"; Lydian Kuvava; Greek: Κυβέλη Kybele, Κυβήβη Kybebe, Κύβελις Kybelis) was an originally Anatolian mother goddess; she has a possible precursor in the earliest neolithic at Çatalhöyük (in the Konya region) where the statue of a pregnant goddess seated on a lion throne was found in a granary. She is Phrygia's only known goddess, and was probably its state deity. Her Phrygian cult was adopted and adapted by Greek colonists of Asia Minor and spread from there to mainland Greece and its more distant western colonies from around the 6th century BCE.",
+    "link": "http://en.wikipedia.org/wiki/Cybele",
+    "thumbnail": "/img/entity_cybele.jpg",
+    "works": ["aeneid"],
+    "slug": "cybele"
+}, {
+    "_id": {
+        "$oid": "54bd6f63b7efdad76ec4552f"
+    },
+    "en_name": "cyclops",
+    "desc": "A cyclops (/ˈsaɪklɒps/ SY-klops; Ancient Greek: Κύκλωψ, Kuklōps; plural cyclopes /saɪˈkloʊpiːz/ sy-KLOH-peez; Ancient Greek: Κύκλωπες, Kuklōpes), in Greek mythology and later Roman mythology, was a member of a primordial race of giants, each with a single eye in the middle of his forehead.[1] The name literally means \"round-eyed\"[2] or \"circle-eyed\".[3]",
+    "link": "http://en.wikipedia.org/wiki/Cyclops",
+    "thumbnail": "/img/entity_cyclops.gif",
+    "works": ["georgics", "aeneid"],
+    "slug": "cyclops"
+}, {
+    "_id": {
+        "$oid": "54bd6faab7efdad76ec45530"
+    },
+    "en_name": "cyprus",
+    "desc": "Cyprus (i/ˈsaɪprəs/; Greek: Κύπρος [ˈcipros]; Turkish: Kıbrıs [ˈkɯbɾɯs]), officially the Republic of Cyprus (Greek: Κυπριακή Δημοκρατία; Turkish: Kıbrıs Cumhuriyeti), is an island country in the Eastern Mediterranean Sea.[e] Cyprus is the third largest and third most populous island in the Mediterranean, and a member state of the European Union. It is located south of Turkey, west of Syria and Lebanon, northwest of Israel, north of Egypt and east of Greece.",
+    "link": "http://en.wikipedia.org/wiki/Cyprus",
+    "thumbnail": "/img/entity_cyprus.svg",
+    "works": ["aeneid"],
+    "slug": "cyprus"
+}, {
+    "_id": {
+        "$oid": "54bd6ff1b7efdad76ec45531"
+    },
+    "en_name": "cythera",
+    "desc": "",
+    "link": "http://en.wikipedia.org/wiki/Cythera_(mythology)",
+    "thumbnail": "",
+    "works": ["aeneid"],
+    "slug": "cythera"
+}, {
+    "_id": {
+        "$oid": "54bd7038b7efdad76ec45532"
+    },
+    "en_name": "daedalus",
+    "desc": "In Greek mythology, Daedalus (/ˈdɛdələs ˈdiːdələs/; Ancient Greek: Δαίδαλος Daidalos, perhaps related to δαιδάλλω \"to work artfully\";[1] Latin: Daedalus; Etruscan: Taitale) was a skillful craftsman and artist.[2][3] He is the father of Icarus, the uncle of Perdix and possibly also the father of Iapyx although this is unclear.",
+    "link": "http://en.wikipedia.org/wiki/Daedalus",
+    "thumbnail": "/img/entity_daedalus.png",
+    "works": ["georgics", "aeneid"],
+    "slug": "daedalus"
+}, {
+    "_id": {
+        "$oid": "54bd707fb7efdad76ec45533"
+    },
+    "en_name": "danae",
+    "desc": "In Greek mythology, Danaë (/ˈdæn.eɪ.iː/ or /ˈdæn.i.iː/;[1] Greek: Δανάη) was a daughter of King Acrisius of Argos and his wife Queen Eurydice. She was the mother of the hero Perseus by Zeus. She was sometimes credited with founding the city of Ardea in Latium during the Bronze Age.",
+    "link": "http://en.wikipedia.org/wiki/Danae",
+    "thumbnail": "/img/entity_danae.jpg",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "danae"
+}, {
+    "_id": {
+        "$oid": "54bd70c7b7efdad76ec45534"
+    },
+    "en_name": "dardanus",
+    "desc": "In Greek mythology, Dardanus (/ˈdɑrdənəs/; Greek: Δάρδανος[1]) was a son of Zeus and Electra, daughter of Atlas, and founder of the city of Dardanus at the foot of Mount Ida in the Troad.",
+    "link": "http://en.wikipedia.org/wiki/Dardanus",
+    "thumbnail": "/img/entity_dardanus.svg",
+    "works": ["aeneid"],
+    "slug": "dardanus"
+}, {
+    "_id": {
+        "$oid": "54bd710eb7efdad76ec45535"
+    },
+    "en_name": "delos",
+    "desc": "The island of Delos (/ˈdiːlɒs/; Greek: Δήλος [ˈðilos]; Attic: Δῆλος, Doric: Δᾶλος), near Mykonos, near the centre of the Cyclades archipelago, is one of the most important mythological, historical and archaeological sites in Greece. The excavations in the island are among the most extensive in the Mediterranean; ongoing work takes place under the direction of the French School at Athens and many of the artifacts found are on display at the Archaeological Museum of Delos and the National Archaeological Museum of Athens.",
+    "link": "http://en.wikipedia.org/wiki/Delos",
+    "thumbnail": "/img/entity_delos.jpg",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "delos"
+}, {
+    "_id": {
+        "$oid": "54bd7155b7efdad76ec45536"
+    },
+    "en_name": "diana",
+    "desc": "In Roman mythology, Diana (lt. \"heavenly\" or \"divine\") was the goddess of the hunt, the moon and birthing, being associated with wild animals and woodland, and having the power to talk to and control animals. She was equated with the Greek goddess Artemis,[1] though she had an independent origin in Italy. Diana was worshipped in ancient Roman religion and is revered in Roman Neopaganism and Stregheria. Dianic Wicca, a largely feminist form of the practice, is named for her. Diana was known to be the virgin goddess of childbirth and women. She was one of the three maiden goddesses, Diana, Minerva and Vesta, who swore never to marry.",
+    "link": "http://en.wikipedia.org/wiki/Diana_(mythology)",
+    "thumbnail": "/img/entity_diana.jpg",
+    "works": ["aeneid"],
+    "slug": "diana"
+}, {
+    "_id": {
+        "$oid": "54bd719cb7efdad76ec45537"
+    },
+    "en_name": "dido",
+    "desc": "",
+    "link": "http://en.wikipedia.org/wiki/Dido_(mythology)",
+    "thumbnail": "",
+    "works": ["aeneid"],
+    "slug": "dido"
+}, {
+    "_id": {
+        "$oid": "54bd71e3b7efdad76ec45538"
+    },
+    "en_name": "diomedes",
+    "desc": "Diomedes (/ˌdaɪəˈmiːdiːz/ or /ˌdaɪˈɒmɪdiːz/[1]) or Diomede (/ˈdaɪəmiːd/;[2] Greek: Διομήδης Diomēdēs \"God-like cunning, advised by Zeus\"\") is a hero in Greek mythology, known for his participation in the Trojan War.",
+    "link": "http://en.wikipedia.org/wiki/Diomedes",
+    "thumbnail": "/img/entity_diomedes.jpg",
+    "works": ["aeneid"],
+    "slug": "diomedes"
+}, {
+    "_id": {
+        "$oid": "54bd722ab7efdad76ec45539"
+    },
+    "en_name": "elissa",
+    "desc": "Elissa could refer to:",
+    "link": "http://en.wikipedia.org/wiki/Elissa",
+    "thumbnail": "",
+    "works": ["aeneid"],
+    "slug": "elissa"
+}, {
+    "_id": {
+        "$oid": "54bd7271b7efdad76ec4553a"
+    },
+    "en_name": "elysium",
+    "desc": "Elysium or the Elysian Fields (Ancient Greek: Ἠλύσιον πεδίον, Ēlýsion pedíon) is a conception of the afterlife that developed over time and was maintained by certain Greek religious and philosophical sects and cults. Initially separate from the realm of Hades, admission was reserved for mortals related to the gods and other heroes. Later, it expanded to include those chosen by the gods, the righteous, and the heroic, where they would remain after death, to live a blessed and happy life, and indulging in whatever employment they had enjoyed in life.[1][2][3][4][5][6]",
+    "link": "http://en.wikipedia.org/wiki/Elysium",
+    "thumbnail": "/img/entity_elysium.jpg",
+    "works": ["georgics", "aeneid"],
+    "slug": "elysium"
+}, {
+    "_id": {
+        "$oid": "54bd72b8b7efdad76ec4553b"
+    },
+    "en_name": "erebus",
+    "desc": "In Greek mythology, Erebus /ˈɛrəbəs/, also Erebos (Greek: Ἔρεβος, \"deep darkness, shadow\"),[1] was often conceived as a primordial deity, representing the personification of darkness; for instance, Hesiod's Theogony identifies him as one of the first five beings in existence, born of Chaos.[2] Erebus features little in Greek mythological tradition and literature, but is said to have fathered several other deities with Nyx; depending on the source of the mythology, this union includes Aether, Hemera, the Hesperides, Hypnos, the Moirai, Geras, Styx, Charon, and Thanatos.",
+    "link": "http://en.wikipedia.org/wiki/Erebus",
+    "thumbnail": "",
+    "works": ["georgics", "aeneid", "eclogues"],
+    "slug": "erebus"
+}, {
+    "_id": {
+        "$oid": "54bd7300b7efdad76ec4553c"
+    },
+    "en_name": "eryx",
+    "desc": "In Greek mythology, Eryx was a king of the city of Eryx in Sicily. He was either the son of Poseidon,[1] or of Aphrodite and Butes the Argonaut of the Elymian people of Sicily who she spent several nights with at Lilybaeum to make Adonis jealous.[2] [3] Eryx was an excellent boxer but died when Heracles beat him in a match.[4]",
+    "link": "http://en.wikipedia.org/wiki/Eryx",
+    "thumbnail": "/img/entity_eryx.jpg",
+    "works": ["aeneid"],
+    "slug": "eryx"
+}, {
+    "_id": {
+        "$oid": "54bd7348b7efdad76ec4553d"
+    },
+    "en_name": "etruria",
+    "desc": "Etruria (/ɪˈtrʊəriə/; usually referred to in Greek and Latin source texts as Tyrrhenia Greek: Τυρρηνία) was a region of Central Italy, located in an area that covered part of what are now Tuscany, Lazio, and Umbria.",
+    "link": "http://en.wikipedia.org/wiki/Etruria",
+    "thumbnail": "/img/entity_etruria.png",
+    "works": ["georgics", "aeneid"],
+    "slug": "etruria"
+}, {
+    "_id": {
+        "$oid": "54bd738fb7efdad76ec4553e"
+    },
+    "en_name": "etrusca",
+    "desc": "Etruscan civilization (/ɨˈtrʌskən/) is the modern name given to a civilization of ancient Italy in the area corresponding roughly to Tuscany, western Umbria, and northern Lazio. The ancient Romans called its creators the Tusci or Etrusci.[1] Their Roman name is the origin of the terms Tuscany, which refers to their heartland, and Etruria, which can refer to their wider region.",
+    "link": "http://en.wikipedia.org/wiki/Etrusca",
+    "thumbnail": "/img/entity_etrusca.jpg",
+    "works": ["aeneid"],
+    "slug": "etrusca"
+}, {
+    "_id": {
+        "$oid": "54bd73d7b7efdad76ec4553f"
+    },
+    "en_name": "eumenides",
+    "desc": "",
+    "link": "http://en.wikipedia.org/wiki/Eumenides_(mythology)",
+    "thumbnail": "",
+    "works": ["georgics", "aeneid"],
+    "slug": "eumenides"
+}, {
+    "_id": {
+        "$oid": "54bd741eb7efdad76ec45540"
+    },
+    "en_name": "eurus",
+    "desc": "In ancient Greek religion and myth, the Anemoi (Greek: Ἄνεμοι, \"Winds\")[n 1] were Greek wind gods who were each ascribed a cardinal direction from which their respective winds came (see Classical compass winds), and were each associated with various seasons and weather conditions. They were sometimes represented as mere gusts of wind, at other times were personified as winged men, and at still other times were depicted as horses kept in the stables of the storm god Aeolus, who provided Odysseus with the Anemoi in the Odyssey. The Spartans were reported to sacrifice a horse to the winds on Mount Taygetus.[2] Astraeus, the astrological deity sometimes associated with Aeolus, and Eos, the goddess of the dawn, were the parents of the Anemoi, according to the Greek poet Hesiod.",
+    "link": "http://en.wikipedia.org/wiki/Eurus",
+    "thumbnail": "/img/entity_eurus.jpg",
+    "works": ["georgics", "aeneid", "eclogues"],
+    "slug": "eurus"
+}, {
+    "_id": {
+        "$oid": "54bd747ab7efdad76ec45541"
+    },
+    "en_name": "evander",
+    "desc": "Evander is a masculine given name. It is anglicization of Greek Ευανδρος (lit. \"good man\", latinized Evandrus). It has also been adopted as an anglicization of the Gaelic name Iomhar (the Gaelic variant of the name Ivor). People called Evander (Evandros) include:",
+    "link": "http://en.wikipedia.org/wiki/Evander",
+    "thumbnail": "",
+    "works": ["aeneid"],
+    "slug": "evander"
+}, {
+    "_id": {
+        "$oid": "54bd74c1b7efdad76ec45542"
+    },
+    "en_name": "fates",
+    "desc": "In ancient Roman religion and myth, the Parcae (singular, Parca) were the female personifications of destiny, often called the Fates in English. Their Greek equivalent were the Moirai. They controlled the metaphorical thread of life of every mortal and immortal from birth to death. Even the gods feared the Parcae. Jupiter also was subject to their power.",
+    "link": "http://en.wikipedia.org/wiki/Parcae",
+    "thumbnail": "",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "fates"
+}, {
+    "_id": {
+        "$oid": "54bd7508b7efdad76ec45543"
+    },
+    "en_name": "faunus",
+    "desc": "In ancient Roman religion and myth, Faunus was the horned god of the forest, plains and fields; when he made cattle fertile he was called Inuus. He came to be equated in literature with the Greek god Pan.",
+    "link": "http://en.wikipedia.org/wiki/Faunus",
+    "thumbnail": "/img/entity_faunus.JPG",
+    "works": ["georgics", "aeneid"],
+    "slug": "faunus"
+}, {
+    "_id": {
+        "$oid": "54bd7550b7efdad76ec45544"
+    },
+    "en_name": "furies",
+    "desc": "In Greek mythology the Erinyes (/ɪˈrɪniˌiːz/; sing. Erinys /ɪˈrɪnɪs/;[1] Greek: Ἐρῑνύες [ῠ], pl. of Ἐρῑνύς [ῡ], Erinys),[2][3][4][n 1] also known as Furies, were female chthonic deities of vengeance; they were sometimes referred to as \"infernal goddesses\" (χθόνιαι θεαί). A formulaic oath in the Iliad invokes them as \"those who beneath the earth punish whosoever has sworn a false oath\".[8] Burkert suggests they are \"an embodiment of the act of self-cursing contained in the oath\".[9] They correspond to the Dirae in Roman mythology,[10] and some suppose that they are called Furies in hell, Harpies on earth, and Dirae in heaven.[11][12]",
+    "link": "http://en.wikipedia.org/wiki/Furies",
+    "thumbnail": "/img/entity_furies.png",
+    "works": ["aeneid"],
+    "slug": "furies"
+}, {
+    "_id": {
+        "$oid": "54bd7597b7efdad76ec45545"
+    },
+    "en_name": "ganymede",
+    "desc": "Ganymede commonly refers to:",
+    "link": "http://en.wikipedia.org/wiki/Ganymede",
+    "thumbnail": "",
+    "works": ["aeneid"],
+    "slug": "ganymede"
+}, {
+    "_id": {
+        "$oid": "54bd75deb7efdad76ec45546"
+    },
+    "en_name": "geryon",
+    "desc": "In Greek mythology, Geryon (/ˈdʒɪəriən/ or /ˈɡɛriən/;[1] also Geryone; Greek: Γηρυών,[2] genitive: Γηρυόνος), son of Chrysaor and Callirrhoe and grandson of Medusa, was a fearsome giant who dwelt on the island Erytheia of the mythic Hesperides in the far west of the Mediterranean. A more literal-minded later generation of Greeks associated the region with Tartessos in southern Iberia.[3]",
+    "link": "http://en.wikipedia.org/wiki/Geryon",
+    "thumbnail": "/img/entity_geryon.jpg",
+    "works": ["aeneid"],
+    "slug": "geryon"
+}, {
+    "_id": {
+        "$oid": "54bd7625b7efdad76ec45547"
+    },
+    "en_name": "gorgon",
+    "desc": "In Greek mythology, a Gorgon (/ˈɡɔrɡən/; plural: Gorgons, Ancient Greek: Γοργών/Γοργώ Gorgon/Gorgo) is a female creature. The name derives from the ancient Greek word gorgós, which means \"dreadful\", and appears to come from the same root as the Sanskrit word \"garğ\" which is defined as a guttural sound, similar to the growling of a beast,[1] thus possibly originating as an onomatopoeia. While descriptions of Gorgons vary across Greek literature and occur in the earliest examples of Greek literature, the term commonly refers to any of three sisters who had hair made of living, venomous snakes, as well as a horrifying visage that turned those who beheld her to stone. Traditionally, while two of the Gorgons were immortal, Stheno and Euryale, their sister Medusa was not, and she was slain by the demigod and hero Perseus.",
+    "link": "http://en.wikipedia.org/wiki/Gorgon",
+    "thumbnail": "/img/entity_gorgon.jpg",
+    "works": ["aeneid"],
+    "slug": "gorgon"
+}, {
+    "_id": {
+        "$oid": "54bd766db7efdad76ec45548"
+    },
+    "en_name": "gracchi",
+    "desc": " Ancient Rome portal",
+    "link": "http://en.wikipedia.org/wiki/Gracchi",
+    "thumbnail": "/img/entity_gracchi.svg",
+    "works": ["aeneid"],
+    "slug": "gracchi"
+}, {
+    "_id": {
+        "$oid": "54bd76b4b7efdad76ec45549"
+    },
+    "en_name": "hannibal",
+    "desc": "Hannibal Barca, son of Hamilcar Barca[n 1] (247 – 183/182/181 BC)[n 2] was a Punic Carthaginian military commander, generally considered one of the greatest military commanders in history. His father, Hamilcar Barca, was the leading Carthaginian commander during the First Punic War, his younger brothers were Mago and Hasdrubal, and he was brother-in-law to Hasdrubal the Fair.",
+    "link": "http://en.wikipedia.org/wiki/Hannibal",
+    "thumbnail": "",
+    "works": [],
+    "slug": "hannibal"
+}, {
+    "_id": {
+        "$oid": "54bd76fcb7efdad76ec4554a"
+    },
+    "en_name": "harpies",
+    "desc": "In Greek mythology and Roman mythology, a harpy (plural harpies, Greek: ἅρπυια,[1] harpyia, pronounced [hárpuja]; Latin: harpȳia) was a female monster in the form of a bird with a human face. They steal food from their victims while they are eating and carry evildoers (especially those who have killed their family) to the Erinyes. They seem originally to have been wind spirits. Their name means \"snatchers\".[2]",
+    "link": "http://en.wikipedia.org/wiki/Harpies",
+    "thumbnail": "/img/entity_harpies.PNG",
+    "works": ["aeneid"],
+    "slug": "harpies"
+}, {
+    "_id": {
+        "$oid": "54bd7743b7efdad76ec4554b"
+    },
+    "en_name": "hecate",
+    "desc": "Hecate or Hekate (/ˈhɛkətiː, ˈhɛkɪt/; Greek Ἑκάτη, Hekátē) is a goddess in Greek religion and mythology, most often shown holding two torches or a key[1] and in later periods depicted in triple form. She was variously associated with crossroads, entrance-ways, dogs, light, the moon, magic, witchcraft, knowledge of herbs and poisonous plants, necromancy, and sorcery.[2][3] In the post-Christian writings of the Chaldean Oracles (2nd-3rd century CE) she was regarded with (some) rulership over earth, sea and sky, as well as a more universal role as Saviour (Soteira), Mother of Angels and the Cosmic World Soul.[4][5] She was one of the main deities worshiped in Athenian households as a protective goddess and one who bestowed prosperity and daily blessings on the family.[6]",
+    "link": "http://en.wikipedia.org/wiki/Hecate",
+    "thumbnail": "/img/entity_hecate.jpg",
+    "works": ["aeneid"],
+    "slug": "hecate"
+}, {
+    "_id": {
+        "$oid": "54bd778ab7efdad76ec4554c"
+    },
+    "en_name": "hector",
+    "desc": "In Greek mythology, Hector (Ἕκτωρ Hektōr, pronounced [héktɔːr]) was a Trojan prince and the greatest fighter for Troy in the Trojan War. As the first-born son of King Priam and Queen Hecuba, who was a descendant of Dardanus and Tros, the founder of Troy,[1] he was a prince of the royal house and the heir apparent to his father's throne. He was married to Andromache, with whom he had an infant son, Scamandrius (whom the people of Troy called Astyanax). He acted as leader of the Trojans and their allies in the defense of Troy, \"killing 31,000 Greek fighters,\" offers Hyginus.[2] During the European Middle Ages, Hector figures as one of the Nine Worthies noted by Jacques de Longuyon, known not only for his courage but also for his noble and courtly nature. Indeed Homer places Hector as peace-loving, thoughtful as well as bold, a good son, husband and father, and without darker motives. James Redfield writes of Hector as a \"martyr to loyalties, a witness to the things of this world, a hero ready to die for the precious imperfections of ordinary life.\"[3]",
+    "link": "http://en.wikipedia.org/wiki/Hector",
+    "thumbnail": "/img/entity_hector.jpg",
+    "works": ["aeneid"],
+    "slug": "hector"
+}, {
+    "_id": {
+        "$oid": "54bd77d2b7efdad76ec4554d"
+    },
+    "en_name": "helen",
+    "desc": "",
+    "link": "http://en.wikipedia.org/wiki/Helen_(mythology)",
+    "thumbnail": "",
+    "works": ["aeneid"],
+    "slug": "helen"
+}, {
+    "_id": {
+        "$oid": "54bd7819b7efdad76ec4554e"
+    },
+    "en_name": "helicon",
+    "desc": "",
+    "link": "http://en.wikipedia.org/wiki/Helicon_(mythology)",
+    "thumbnail": "",
+    "works": ["aeneid"],
+    "slug": "helicon"
+}, {
+    "_id": {
+        "$oid": "54bd7861b7efdad76ec4554f"
+    },
+    "en_name": "hercules",
+    "desc": "Hercules is the Roman name for the Greek divine hero Heracles, who was the son of Zeus (Roman equivalent Jupiter) and the mortal Alcmene. In classical mythology, Hercules is famous for his strength and for his numerous far-ranging adventures.",
+    "link": "http://en.wikipedia.org/wiki/Hercules",
+    "thumbnail": "/img/entity_hercules.JPG",
+    "works": ["aeneid"],
+    "slug": "hercules"
+}, {
+    "_id": {
+        "$oid": "54bd78a8b7efdad76ec45550"
+    },
+    "en_name": "hesperia",
+    "desc": "",
+    "link": "http://en.wikipedia.org/wiki/Hesperia_(mythology)",
+    "thumbnail": "",
+    "works": ["eclogues", "aeneid"],
+    "slug": "hesperia"
+}, {
+    "_id": {
+        "$oid": "54bd78f0b7efdad76ec45551"
+    },
+    "en_name": "hesperides",
+    "desc": "In Greek mythology, the Hesperides (/hɛˈspɛrɪdiːz/; Ancient Greek: Ἑσπερίδες) are nymphs who tend a blissful garden in a far western corner of the world, located near the neighbourhood of Cyrene[1] or Benghazi[2] in Libya or the Atlas mountains in North Africa at the edge of the encircling Oceanus, the world-ocean.[3] The nymphs are said to be the daughters of Hesperus.[4]",
+    "link": "http://en.wikipedia.org/wiki/Hesperides",
+    "thumbnail": "/img/entity_hesperides.jpg",
+    "works": ["eclogues", "aeneid"],
+    "slug": "hesperides"
+}, {
+    "_id": {
+        "$oid": "54bd7937b7efdad76ec45552"
+    },
+    "en_name": "hippolytus",
+    "desc": "In Greek mythology, Hippolytus (Greek Ἱππόλυτος meaning \"unleasher of horses\")[1] was a son of Theseus and either Antiope or Hippolyte. He was identified with the Roman forest god Virbius.",
+    "link": "http://en.wikipedia.org/wiki/Hippolytus_(mythology)",
+    "thumbnail": "/img/entity_hippolytus.jpg",
+    "works": ["aeneid"],
+    "slug": "hippolytus"
+}, {
+    "_id": {
+        "$oid": "54bd797eb7efdad76ec45553"
+    },
+    "en_name": "hydra",
+    "desc": "In Greek mythology, the Lernaean Hydra (Greek: Λερναῖα Ὕδρα) was an ancient serpent-like water monster with reptilian traits. It possessed many heads – the poets mention more heads than the vase-painters could paint – and for each head cut off it grew two more 'Cut off one head, Two more shall take it's place'. It had poisonous breath and blood so virulent that even its tracks were deadly.[1] The Hydra of Lerna was killed by Heracles as the second of his Twelve Labours. Its lair was the lake of Lerna in the Argolid, though archaeology has borne out the myth that the sacred site was older even than the Mycenaean city of Argos since Lerna was the site of the myth of the Danaids. Beneath the waters was an entrance to the Underworld, and the Hydra was its guardian.[2]",
+    "link": "http://en.wikipedia.org/wiki/Hydra_(mythology)",
+    "thumbnail": "/img/entity_hydra.jpg",
+    "works": ["georgics", "aeneid"],
+    "slug": "hydra"
+}, {
+    "_id": {
+        "$oid": "54bd79c5b7efdad76ec45554"
+    },
+    "en_name": "icarus",
+    "desc": "In Greek mythology, Icarus (the Latin spelling, conventionally adopted in English; Ancient Greek: Ἴκαρος, Íkaros, Etruscan: Vikare[1]) is the son of the master craftsman Daedalus, the creator of the Labyrinth. Often depicted in art, Icarus and his father attempt to escape from Crete by means of wings that his father constructed from feathers and wax. Icarus' father warns him first of complacency and then of hubris, asking that he fly neither too low nor too high, because the sea's dampness would clog his wings or the sun's heat would melt them. Icarus ignored his father's instructions not to fly too close to the sun, whereupon the wax in his wings melted and he fell into the sea. Daedalus lived with the hope of visiting the Underworld and bringing his son back. This tragic theme of failed ambition contains similarities to that of Phaëthon.",
+    "link": "http://en.wikipedia.org/wiki/Icarus",
+    "thumbnail": "/img/entity_icarus.jpg",
+    "works": ["aeneid"],
+    "slug": "icarus"
+}, {
+    "_id": {
+        "$oid": "54bd7a0bb7efdad76ec45555"
+    },
+    "en_name": "ida",
+    "desc": "",
+    "link": "http://en.wikipedia.org/wiki/Ida_(mythology)",
+    "thumbnail": "",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "ida"
+}, {
+    "_id": {
+        "$oid": "54bd7a9cb7efdad76ec45557"
+    },
+    "en_name": "ilium",
+    "desc": "Ilium and similar can refer to:",
+    "link": "http://en.wikipedia.org/wiki/Ilium",
+    "thumbnail": "",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "ilium"
+}, {
+    "_id": {
+        "$oid": "54bd7b2eb7efdad76ec45559"
+    },
+    "en_name": "io",
+    "desc": "Io (/ˈaɪ.oʊ/; Ancient Greek: Ἰώ [iːɔ̌ː]) was, in Greek mythology, a priestess of Hera in Argos,[1] a mortal who was seduced by Zeus, who changed her into a heifer to escape detection from his jealous wife, Hera.",
+    "link": "http://en.wikipedia.org/wiki/Io_(mythology)",
+    "thumbnail": "/img/entity_io.jpg",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "io"
+}, {
+    "_id": {
+        "$oid": "54bd7b79b7efdad76ec4555a"
+    },
+    "en_name": "iris",
+    "desc": "In Greek mythology, Iris (/ˈaɪrɨs/; Greek: Ἶρις)[1] is the personification of the rainbow and messenger of the gods. She is also known as one of the goddesses of the sea and the sky. Iris links the gods to humanity. She travels with the speed of wind from one end of the world to the other,[2] and into the depths of the sea and the underworld.",
+    "link": "http://en.wikipedia.org/wiki/Iris_(mythology)",
+    "thumbnail": "/img/entity_iris.jpg",
+    "works": ["georgics", "aeneid", "eclogues"],
+    "slug": "iris"
+}, {
+    "_id": {
+        "$oid": "54bd7bdfb7efdad76ec4555b"
+    },
+    "en_name": "italy",
+    "desc": "– in Europe  (light green \u0026 dark grey)\n– in the European Union  (light green)  –  [Legend]",
+    "link": "http://en.wikipedia.org/wiki/Italy",
+    "thumbnail": "/img/entity_italy.svg",
+    "works": ["georgics", "aeneid"],
+    "slug": "italy"
+}, {
+    "_id": {
+        "$oid": "54bd7c27b7efdad76ec4555c"
+    },
+    "en_name": "jove",
+    "desc": "Jupiter (Latin: Iuppiter; /ˈjʊpɪtɛr/; genitive case: Iovis; /ˈjɔːwɪs/) or Jove is the king of the gods and the god of sky and thunder in myth. Jupiter was the chief deity of Roman state religion throughout the Republican and Imperial eras, until Christianity became the dominant religion of the Empire. In Roman mythology, he negotiates with Numa Pompilius, the second king of Rome, to establish principles of Roman religion such as sacrifice.",
+    "link": "http://en.wikipedia.org/wiki/Jove",
+    "thumbnail": "/img/entity_jove.jpg",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "jove"
+}, {
+    "_id": {
+        "$oid": "54bd7c6fb7efdad76ec4555d"
+    },
+    "en_name": "juno",
+    "desc": "Juno (Latin: Iūno [ˈjuːno]) is an ancient Roman goddess, the protector and special counselor of the state. She is a daughter of Saturn and sister (but also the wife) of the chief god Jupiter and the mother of Mars and Vulcan. Juno also looked after the women of Rome.[1] Her Greek equivalent was Hera.[2] Her Etruscan counterpart was Uni. As the patron goddess of Rome and the Roman Empire, Juno was called Regina (\"Queen\") and, together with Jupiter and Minerva, was worshipped as a triad on the Capitol (Juno Capitolina) in Rome.",
+    "link": "http://en.wikipedia.org/wiki/Juno_(mythology)",
+    "thumbnail": "/img/entity_juno.jpg",
+    "works": ["georgics", "aeneid"],
+    "slug": "juno"
+}, {
+    "_id": {
+        "$oid": "54bd7cb6b7efdad76ec4555e"
+    },
+    "en_name": "jupiter",
+    "desc": "",
+    "link": "http://en.wikipedia.org/wiki/Jupiter",
+    "thumbnail": "",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "jupiter"
+}, {
+    "_id": {
+        "$oid": "54bd7cfeb7efdad76ec4555f"
+    },
+    "en_name": "juturna",
+    "desc": "In the myth and religion of ancient Rome, Juturna was a goddess of fountains, wells and springs. She was a sister of Turnus and supported him against Aeneas by giving him his sword after he dropped it in battle, as well as taking him away from the battle when it seemed he would be killed. She was also the mother of Fontus by Janus.",
+    "link": "http://en.wikipedia.org/wiki/Juturna",
+    "thumbnail": "",
+    "works": ["aeneid"],
+    "slug": "juturna"
+}, {
+    "_id": {
+        "$oid": "54bd7d45b7efdad76ec45560"
+    },
+    "en_name": "laertes",
+    "desc": "In Greek mythology, Laërtes (/leɪˈɜrtiːz/; Greek: Λαέρτης, Laértēs) was the son of Arcesius and Chalcomedusa. He was the father of Odysseus (who was thus called Laertiádēs, Λαερτιάδης, \"son of Laertes\") and Ctimene by his wife Anticlea, daughter of the thief Autolycus. Laërtes was an Argonaut and participated in the hunt for the Calydonian Boar. Laërtes's title was King of the Cephallenians, which he presumably inherited from his father Arcesius and grandfather Cephalus. His realm included Ithaca and surrounding islands, and perhaps even the neighboring part of the mainland of other Greek city-states.",
+    "link": "http://en.wikipedia.org/wiki/Laertes",
+    "thumbnail": "",
+    "works": ["aeneid"],
+    "slug": "laertes"
+}, {
+    "_id": {
+        "$oid": "54bd7d8db7efdad76ec45561"
+    },
+    "en_name": "laocoon",
+    "desc": "Laocoön (/leɪˈɒkɵ.ɒn/; Ancient Greek: Λαοκόων, IPA: [laokóɔːn]), the son of Acoetes, is a figure in Greek and Roman mythology.[1]",
+    "link": "http://en.wikipedia.org/wiki/Laocoon",
+    "thumbnail": "/img/entity_laocoon.jpg",
+    "works": ["aeneid"],
+    "slug": "laocoon"
+}, {
+    "_id": {
+        "$oid": "54bd7dd4b7efdad76ec45562"
+    },
+    "en_name": "laomedon",
+    "desc": "In Greek mythology, Laomedon (/leɪˈɒmɨdɒn/; Ancient Greek: Λαομέδων) was a Trojan king, son of Ilus, nephew of Ganymede and Assaracus, and father of Priam, Astyoche, Lampus, Hicetaon, Clytius, Cilla, Proclia, Aethilla, Medesicaste, Clytodora, and Hesione.[1] Tithonus is also described by most sources as Laomedon's eldest legitimate son; and most sources omit Ganymedes from the list of Laomedon's children, but indicate him as his uncle instead. Laomedon's possible wives are Placia, Strymo (or Rhoeo) and Leucippe;[1] by the former he begot Tithonus and by the latter King Priam (see John Tzetzes' Scholia in Lycophronem 18 («ὁ μὲν γὰρ Πρίαμος ἦν Λευκίππης, ὁ δὲ Τιθωνὸς Ῥοιοῦς ἢ Στρυμοῦς τῆς Σκαμάνδρου θυγατρὸς υἱός»: \"Priamus was the son of Leucippe, whereas Tithonus was the son of Rhoeo or Strymo, the daughter of Scamander\")). He also had a son named Bucolion by the nymph Calybe, as recounted by Homer in the Iliad (6.22). Dictys Cretensis (4.22) added Thymoetes to the list of Laomedon's children.",
+    "link": "http://en.wikipedia.org/wiki/Laomedon",
+    "thumbnail": "/img/entity_laomedon.jpg",
+    "works": [],
+    "slug": "laomedon"
+}, {
+    "_id": {
+        "$oid": "54bd7e1cb7efdad76ec45563"
+    },
+    "en_name": "latinus",
+    "desc": "Latinus (Latin: Lătīnŭs; Ancient Greek: Λατῖνος) was a figure in both Greek and Roman mythology.",
+    "link": "http://en.wikipedia.org/wiki/Latinus",
+    "thumbnail": "/img/entity_latinus.jpg",
+    "works": ["aeneid"],
+    "slug": "latinus"
+}, {
+    "_id": {
+        "$oid": "54bd7e69b7efdad76ec45564"
+    },
+    "en_name": "latium",
+    "desc": "Latium (Latin: Lătĭŭm [ˈlatjʊ̃]) is the region of central western Italy in which the city of Rome was founded and grew to be the capital city of the Roman Empire. Latium was originally a small triangle of fertile, volcanic soil on which resided the tribe of the Latins.[1] It was located on the left bank (east and south) of the Tiber river, extending northward to the Anio river (a left-bank tributary of the Tiber) and southeastward to the Pomptina Palus (Pontine Marshes, now the Pontine Fields) as far south as the Circeian promontory.[2] The right bank of the Tiber was occupied by the Etruscan city of Veii, and the other borders were occupied by Italic tribes. Subsequently Rome defeated Veii and then its Italic neighbors, expanding Latium to the Apennine Mountains in the northeast and to the opposite end of the marsh in the southeast. The modern descendant, the Italian Regione of Lazio, also called Latium in Latin, and occasionally in modern English, is somewhat larger still, but not as much as double the original Latium.",
+    "link": "http://en.wikipedia.org/wiki/Latium",
+    "thumbnail": "/img/entity_latium.png",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "latium"
+}, {
+    "_id": {
+        "$oid": "54bd7eb5b7efdad76ec45565"
+    },
+    "en_name": "latona",
+    "desc": "In Greek mythology, Leto (/ˈliːtoʊ/; Greek: Λητώ Lētṓ; Λατώ, Lātṓ in Dorian Greek, etymology and that meaning disputed) is a daughter of the Titans Coeus and Phoebe and the sister of Asteria.[1] The island of Kos is claimed as her birthplace.[2] In the Olympian scheme, Zeus is the father of her twins,[3] Apollo and Artemis, the Letoides, which Leto conceived after her hidden beauty accidentally caught the eyes of Zeus. Classical Greek myths record little about Leto other than her pregnancy and her search for a place where she could give birth to Apollo and Artemis, since Hera in her jealousy had caused all lands to shun her. Finally, she finds an island that isn't attached to the ocean floor so it isn't considered land and she can give birth.[4] This is her one active mythic role: once Apollo and Artemis are grown, Leto withdraws, to remain a dim[5] and benevolent matronly figure upon Olympus, her part already played. In Roman mythology, Leto's equivalent is Latona, a Latinization of her name, influenced by Etruscan Letun.[6]",
+    "link": "http://en.wikipedia.org/wiki/Latona",
+    "thumbnail": "/img/entity_latona.jpg",
+    "works": ["georgics", "aeneid"],
+    "slug": "latona"
+}, {
+    "_id": {
+        "$oid": "54bd7f03b7efdad76ec45566"
+    },
+    "en_name": "lausus",
+    "desc": "Lausus was the son of the ousted Etruscan king Mezentius, and fought with him against Aeneas and the Trojans in Italy. He appears in Virgil's Aeneid in Books VII and X. When his father is wounded by Aeneas, Lausus steps in between them, and Aeneas strikes them down. In doing so, Lausus embodies the idea of pietas that Virgil praises throughout, exemplified in the relationships of Anchises and Aeneas and of Pallas and Evander. Aeneas immediately feels remorse for having killed the boy, and reproaches Lausus' men for keeping a distance rather than caring for the body: \"Then to the stripling's tardy followers / he sternly called, and lifted from the earth / with his own hand the fallen foe: dark blood / defiled those princely tresses braided fair.\"[1]",
+    "link": "http://en.wikipedia.org/wiki/Lausus",
+    "thumbnail": "/img/entity_lausus.jpg",
+    "works": ["aeneid"],
+    "slug": "lausus"
+}, {
+    "_id": {
+        "$oid": "54bd7f51b7efdad76ec45567"
+    },
+    "en_name": "lavinia",
+    "desc": "In Roman mythology, Lavinia (/ləˈvɪniə/; Latin: Lāuīnĭa [laːˈwiːnia]) is the daughter of Latinus and Amata and the last wife of Aeneas.",
+    "link": "http://en.wikipedia.org/wiki/Lavinia",
+    "thumbnail": "/img/entity_lavinia.jpg",
+    "works": ["aeneid"],
+    "slug": "lavinia"
+}, {
+    "_id": {
+        "$oid": "54bd7fa0b7efdad76ec45568"
+    },
+    "en_name": "leda",
+    "desc": "In Greek mythology, Leda (/ˈliːdə, ˈleɪ-/; Greek: Λήδα [lɛ͜ɛ́da͜a]) was daughter of the Aetolian king Thestius, and wife of king Tyndareus (Τυνδάρεως) of Sparta. Her myth gave rise to the popular motif in Renaissance and later art of Leda and the Swan. She was the mother of Helen (Ἑλένη) of Troy, Clytemnestra (Κλυταιμνήστρα), and Castor and Pollux (Κάστωρ καὶ Πολυδεύκης, also spelled Kastor and Polydeuces).",
+    "link": "http://en.wikipedia.org/wiki/Leda_(mythology)",
+    "thumbnail": "/img/entity_leda.jpg",
+    "works": ["aeneid"],
+    "slug": "leda"
+}, {
+    "_id": {
+        "$oid": "54bd7fecb7efdad76ec45569"
+    },
+    "en_name": "lethe",
+    "desc": "In Greek mythology, Lethe /ˈliːθi/ (Greek: Λήθη, Lḗthē; Ancient Greek: [lɛ́:tʰɛː], Modern Greek: [ˈliθi]) was one of the five rivers of Hades. Also known as the Ameles potamos (river of unmindfulness), the Lethe flowed around the cave of Hypnos and through the Underworld, where all those who drank from it experienced complete forgetfulness. Lethe was also the name of the Greek spirit of forgetfulness and oblivion, with whom the river was often identified.",
+    "link": "http://en.wikipedia.org/wiki/Lethe",
+    "thumbnail": "/img/entity_lethe.JPG",
+    "works": [],
+    "slug": "lethe"
+}, {
+    "_id": {
+        "$oid": "54bd8036b7efdad76ec4556a"
+    },
+    "en_name": "libya",
+    "desc": "– in Africa  (light blue \u0026 dark grey)\n– in the African Union  (light blue)",
+    "link": "http://en.wikipedia.org/wiki/Libya",
+    "thumbnail": "/img/entity_libya.svg",
+    "works": ["georgics", "aeneid"],
+    "slug": "libya"
+}, {
+    "_id": {
+        "$oid": "54bd8080b7efdad76ec4556b"
+    },
+    "en_name": "manlius",
+    "desc": "The gens Manlia was one of the oldest and noblest patrician houses at Rome, from the earliest days of the Republic until imperial times. The first of the gens to obtain the consulship was Gnaeus Manlius Cincinnatus, consul in 480 BC. The family was probably numbered amongst the gentes maiores, the most important of the patrician families.[1]",
+    "link": "http://en.wikipedia.org/wiki/Manlius",
+    "thumbnail": "",
+    "works": [],
+    "slug": "manlius"
+}, {
+    "_id": {
+        "$oid": "54bd81abb7efdad76ec4556c"
+    },
+    "en_name": "marcellus",
+    "desc": "Marcus Claudius Marcellus (/mɑrˈsɛləs/; c. 268 – 208 BC), five times elected as consul of the Roman Republic, was an important Roman military leader during the Gallic War of 225 BC and the Second Punic War. Marcellus gained the most prestigious award a Roman general could earn, the spolia opima, for killing the Gallic military leader and king Viridomarus in hand-to-hand combat in 222 BC at the battle of Clastidium. Furthermore, he is noted for having conquered the fortified city of Syracuse in a protracted siege during which Archimedes, the famous inventor, was killed. Marcus Claudius Marcellus died in battle in 208 BC, leaving behind a legacy of military conquests and a reinvigorated Roman legend of the spolia opima.",
+    "link": "http://en.wikipedia.org/wiki/Marcus_Claudius_Marcellus",
+    "thumbnail": "",
+    "works": ["aeneid"],
+    "slug": "marcellus"
+}, {
+    "_id": {
+        "$oid": "54bd8290b7efdad76ec4556d"
+    },
+    "en_name": "mars",
+    "desc": "",
+    "link": "http://en.wikipedia.org/wiki/Mars",
+    "thumbnail": "",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "mars"
+}, {
+    "_id": {
+        "$oid": "54bd82dbb7efdad76ec4556e"
+    },
+    "en_name": "menelaus",
+    "desc": "Issue",
+    "link": "http://en.wikipedia.org/wiki/Menelaus",
+    "thumbnail": "/img/entity_menelaus.jpg",
+    "works": ["aeneid"],
+    "slug": "menelaus"
+}, {
+    "_id": {
+        "$oid": "54bd8324b7efdad76ec4556f"
+    },
+    "en_name": "mercury",
+    "desc": "Mercury (/ˈmɜrkjʉri/; Latin: Mercurius  listen (help·info)) is a major Roman god, being one of the Dii Consentes within the ancient Roman pantheon. He is the patron god of financial gain, commerce, eloquence (and thus poetry), messages/communication (including divination), travelers, boundaries, luck, trickery and thieves; he is also the guide of souls to the underworld.[1][2] He was considered the son of Maia and Jupiter in Roman mythology. His name is possibly related to the Latin word merx (\"merchandise\"; compare merchant, commerce, etc.), mercari (to trade), and merces (wages); another possible connection is the Proto-Indo-European root merĝ- for \"boundary, border\" (cf. Old English \"mearc\", Old Norse \"mark\", Latin \"margō\", and Welsh Cymro) and Greek οὖρος (by analogy of Arctūrus/Ἀρκτοῦρος), as the \"keeper of boundaries,\" referring to his role as bridge between the upper and lower worlds.[citation needed] In his earliest forms, he appears to have been related to the Etruscan deity Turms, both of which share characteristics with the Greek god Hermes. In Virgil's Aeneid, Mercury reminds Aeneas of his mission to found the city of Rome. In Ovid's Fasti, Mercury is assigned to escort the nymph Larunda to the underworld. Mercury, however, fell in love with Larunda and made love to her on the way. Larunda thereby became mother to two children, referred to as the Lares, invisible household gods.",
+    "link": "http://en.wikipedia.org/wiki/Mercury_(mythology)",
+    "thumbnail": "/img/entity_mercury.JPG",
+    "works": ["aeneid"],
+    "slug": "mercury"
+}, {
+    "_id": {
+        "$oid": "54bd836db7efdad76ec45570"
+    },
+    "en_name": "mezentius",
+    "desc": "In Roman mythology, Mezentius was an Etruscan king, and father of Lausus. Sent into exile because of his cruelty, he moved to Latium. He reveled in bloodshed and was overwhelmingly savage on the battlefield, but more significantly to a Roman audience he was a contemptor divum, a \"despiser of the gods.\"",
+    "link": "http://en.wikipedia.org/wiki/Mezentius",
+    "thumbnail": "/img/entity_mezentius.jpg",
+    "works": ["aeneid"],
+    "slug": "mezentius"
+}, {
+    "_id": {
+        "$oid": "54bd83b6b7efdad76ec45571"
+    },
+    "en_name": "minerva",
+    "desc": "Minerva (Etruscan: Menrva) was the Roman goddess of wisdom and sponsor of arts, trade, and strategy. She was born with weapons from the head of Jupiter.[1] Jupiter had sex with his sister Metis and impregnated her. Fearing that their child would grow stronger than him and rule the Heavens in his place, Jupiter ripped the child from her womb and devoured it and Minerva was born from his forehead. From the 2nd century BC onwards, the Romans equated her with the Greek goddess Athena.[2] She was the virgin goddess of music, poetry, medicine, wisdom, commerce, weaving, crafts, and magic.[3] She is often depicted with her sacred creature, an owl usually named as the \"owl of Minerva\",[4] which symbolizes that she is connected to wisdom.",
+    "link": "http://en.wikipedia.org/wiki/Minerva",
+    "thumbnail": "/img/entity_minerva.jpeg",
+    "works": ["georgics", "aeneid"],
+    "slug": "minerva"
+}, {
+    "_id": {
+        "$oid": "54bd844db7efdad76ec45572"
+    },
+    "en_name": "minos",
+    "desc": "In Greek mythology, Minos (/ˈmaɪnɒs/ or /ˈmaɪnəs/; Greek: Μίνως, Minōs) was a king of Crete, son of Zeus and Europa. Every nine years, he made King Aegeus pick seven young boys and seven young girls to be sent to Daedalus' creation, the labyrinth, to be eaten by the Minotaur. After his death, Minos became a judge of the dead in the underworld. The Minoan civilization of Crete has been named after him by the archaeologist Arthur Evans. By his wife, Pasiphaë (or some say Crete), he fathered Ariadne, Androgeus, Deucalion, Phaedra, Glaucus, Catreus, Acacallis and Xenodice. By a nymph, Pareia, he had four sons, Eurymedon, Nephalion, Chryses and Philolaus, who were killed by Heracles in revenge for the murder of the latter's two companions; and by Dexithea, one of the Telchines, he had a son called Euxanthius.[1] By Androgeneia of Phaestus he had Asterion, who commanded the Cretan contingent in the war between Dionysus and the Indians.[2] Also given as his children are Euryale, possibly the mother of Orion with Poseidon,[3] and Pholegander, eponym of the island Pholegandros.[4]",
+    "link": "http://en.wikipedia.org/wiki/Minos",
+    "thumbnail": "/img/entity_minos.jpg",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "minos"
+}, {
+    "_id": {
+        "$oid": "54bd8499b7efdad76ec45573"
+    },
+    "en_name": "mycenae",
+    "desc": "Mycenae (/maɪˈsiːni/; Greek: Μυκῆναι Mykēnai or Μυκήνη Mykēnē) is an archaeological site in Greece, located about 90 kilometres (56 miles) southwest of Athens, in the north-eastern Peloponnese. Argos is 11 kilometres (7 miles) to the south; Corinth, 48 kilometres (30 miles) to the north. From the hill on which the palace was located, one can see across the Argolid to the Saronic Gulf.",
+    "link": "http://en.wikipedia.org/wiki/Mycenae",
+    "thumbnail": "/img/entity_mycenae.jpg",
+    "works": ["georgics", "aeneid"],
+    "slug": "mycenae"
+}, {
+    "_id": {
+        "$oid": "54bd84e2b7efdad76ec45574"
+    },
+    "en_name": "myrmidons",
+    "desc": "The Myrmidons or Myrmidones (Greek: Μυρμιδόνες) were a legendary people of Greek history. They were very brave warriors: trained and commanded by Achilles,[1] as described in Homer's Iliad. Their eponymous ancestor was Myrmidon, a king of Thessalian Phthia, who was the son of Zeus and \"wide-ruling\" Eurymedousa, a princess of Phthia.",
+    "link": "http://en.wikipedia.org/wiki/Myrmidons",
+    "thumbnail": "",
+    "works": ["aeneid"],
+    "slug": "myrmidons"
+}, {
+    "_id": {
+        "$oid": "54bd8530b7efdad76ec45575"
+    },
+    "en_name": "neoptolemus",
+    "desc": "Neoptolemus (/ˌniːəpˈtɒlɨməs/; Greek: Νεοπτόλεμος, Neoptolemos, \"new warrior\"), also called Pyrrhus (/ˈpɪrəs/; Πύρρος, Purrhos, \"red\", for his red hair), was the son of the warrior Achilles and the princess Deidamia in Greek mythology, and also the mythical progenitor of the ruling dynasty of the Molossians of ancient Epirus.",
+    "link": "http://en.wikipedia.org/wiki/Neoptolemus",
+    "thumbnail": "/img/entity_neoptolemus.jpg",
+    "works": ["aeneid"],
+    "slug": "neoptolemus"
+}, {
+    "_id": {
+        "$oid": "54bd8579b7efdad76ec45576"
+    },
+    "en_name": "neptune",
+    "desc": "",
+    "link": "http://en.wikipedia.org/wiki/Neptune",
+    "thumbnail": "",
+    "works": ["georgics", "aeneid"],
+    "slug": "neptune"
+}, {
+    "_id": {
+        "$oid": "54bd85c3b7efdad76ec45577"
+    },
+    "en_name": "notus",
+    "desc": "In ancient Greek religion and myth, the Anemoi (Greek: Ἄνεμοι, \"Winds\")[n 1] were Greek wind gods who were each ascribed a cardinal direction from which their respective winds came (see Classical compass winds), and were each associated with various seasons and weather conditions. They were sometimes represented as mere gusts of wind, at other times were personified as winged men, and at still other times were depicted as horses kept in the stables of the storm god Aeolus, who provided Odysseus with the Anemoi in the Odyssey. The Spartans were reported to sacrifice a horse to the winds on Mount Taygetus.[2] Astraeus, the astrological deity sometimes associated with Aeolus, and Eos, the goddess of the dawn, were the parents of the Anemoi, according to the Greek poet Hesiod.",
+    "link": "http://en.wikipedia.org/wiki/Notus",
+    "thumbnail": "/img/entity_notus.jpg",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "notus"
+}, {
+    "_id": {
+        "$oid": "54bd860db7efdad76ec45578"
+    },
+    "en_name": "oceanus",
+    "desc": "Oceanus (/oʊˈsiːənəs/; Greek: Ὠκεανός Ōkeanós,[2] pronounced [ɔːkeanós]) was a divine figure in classical antiquity, believed by the ancient Greeks and Romans to be the divine personification of the sea , an enormous river encircling the world.",
+    "link": "http://en.wikipedia.org/wiki/Oceanus",
+    "thumbnail": "/img/entity_oceanus.JPG",
+    "works": ["georgics", "aeneid"],
+    "slug": "oceanus"
+}, {
+    "_id": {
+        "$oid": "54bd8656b7efdad76ec45579"
+    },
+    "en_name": "olympus",
+    "desc": "",
+    "link": "http://en.wikipedia.org/wiki/Olympus_(mythology)",
+    "thumbnail": "",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "olympus"
+}, {
+    "_id": {
+        "$oid": "54bd86a0b7efdad76ec4557a"
+    },
+    "en_name": "orcus",
+    "desc": "Orcus (Latin: Orcus) was a god of the underworld, punisher of broken oaths in Italic and Roman mythology. As with Hades, the name of the god was also used for the underworld itself. In the later tradition, he was conflated with Dis Pater, who was the Roman equivalent of Pluto.",
+    "link": "http://en.wikipedia.org/wiki/Orcus",
+    "thumbnail": "/img/entity_orcus.jpg",
+    "works": ["georgics", "aeneid"],
+    "slug": "orcus"
+}, {
+    "_id": {
+        "$oid": "54bd86eab7efdad76ec4557b"
+    },
+    "en_name": "orestes",
+    "desc": "In Greek mythology, Orestes (/ɒˈrɛstiːz/; Greek: Ὀρέστης [oˈrestɛːs]) was the son of Clytemnestra and Agamemnon. He is the subject of several Ancient Greek plays and of various myths connected with his madness and purification, which retain obscure threads of much older ones.[1]",
+    "link": "http://en.wikipedia.org/wiki/Orestes",
+    "thumbnail": "/img/entity_orestes.jpg",
+    "works": ["aeneid"],
+    "slug": "orestes"
+}, {
+    "_id": {
+        "$oid": "54bd8734b7efdad76ec4557c"
+    },
+    "en_name": "orion",
+    "desc": "Orion (Ancient Greek: Ὠρίων[1] or Ὠαρίων, Latin: Orion[2]) was a giant huntsman in Greek mythology whom Zeus placed among the stars as the constellation of Orion.",
+    "link": "http://en.wikipedia.org/wiki/Orion_(mythology)",
+    "thumbnail": "/img/entity_orion.jpg",
+    "works": ["georgics", "aeneid"],
+    "slug": "orion"
+}, {
+    "_id": {
+        "$oid": "54bd877db7efdad76ec4557d"
+    },
+    "en_name": "orpheus",
+    "desc": "Orpheus (/ˈɔrfiəs, ˈɔrfjuːs/; Greek: Ὀρφεύς) was a legendary musician, poet, and prophet in ancient Greek religion and myth. The major stories about him are centered on his ability to charm all living things and even stones with his music, his attempt to retrieve his wife, Eurydice, from the underworld, and his death at the hands of those who could not hear his divine music. As an archetype of the inspired singer, Orpheus is one of the most significant figures in the reception of classical mythology in Western culture, portrayed or alluded to in countless forms of art and popular culture including poetry, film, opera, and painting.[1]",
+    "link": "http://en.wikipedia.org/wiki/Orpheus",
+    "thumbnail": "/img/entity_orpheus.jpg",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "orpheus"
+}, {
+    "_id": {
+        "$oid": "54bd87c6b7efdad76ec4557e"
+    },
+    "en_name": "ortygia",
+    "desc": "Ortygia[pronunciation?] (Italian: Ortigia) is a small island which is the historical centre of the city of Syracuse, Sicily. The island, also known as Città Vecchia (Old City), contains many historical landmarks. The name originates from the Ancient Greek ortyx (ὄρτυξ) which means \"Quail\".",
+    "link": "http://en.wikipedia.org/wiki/Ortygia",
+    "thumbnail": "/img/entity_ortygia.png",
+    "works": ["aeneid"],
+    "slug": "ortygia"
+}, {
+    "_id": {
+        "$oid": "54bd8810b7efdad76ec4557f"
+    },
+    "en_name": "orontes",
+    "desc": "Orontes (/ɔːˈrɒntiːz, oʊˈrɒn-/; also: Orontas, Orondes, Aroandes) is Hellenized form of an Iranian masculine name: Avestan: auruuant sometimes shortened to auruuat, Persian arvand, meaning \"Of greatness, mighty\".",
+    "link": "http://en.wikipedia.org/wiki/Orontes",
+    "thumbnail": "",
+    "works": ["aeneid"],
+    "slug": "orontes"
+}, {
+    "_id": {
+        "$oid": "54bd885cb7efdad76ec45580"
+    },
+    "en_name": "palinurus",
+    "desc": "Palinurus, in Roman mythology and especially Virgil's Aeneid, is the helmsman of Aeneas's ship. Later authors used him as a general type of navigator or guide.",
+    "link": "http://en.wikipedia.org/wiki/Palinurus",
+    "thumbnail": "/img/entity_palinurus.jpg",
+    "works": ["aeneid"],
+    "slug": "palinurus"
+}, {
+    "_id": {
+        "$oid": "54bd88a8b7efdad76ec45581"
+    },
+    "en_name": "pan",
+    "desc": "Pan and panning can have many meanings as listed below in various categories.",
+    "link": "http://en.wikipedia.org/wiki/Pan",
+    "thumbnail": "",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "pan"
+}, {
+    "_id": {
+        "$oid": "54bd88f9b7efdad76ec45582"
+    },
+    "en_name": "paris",
+    "desc": "",
+    "link": "http://en.wikipedia.org/wiki/Paris",
+    "thumbnail": "",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "paris"
+}, {
+    "_id": {
+        "$oid": "54bd894ab7efdad76ec45583"
+    },
+    "en_name": "pasiphae",
+    "desc": "In Greek mythology, Pasiphaë (/pəˈsɪfɨ.iː/;[1] Greek: Πασιφάη Pasipháē, \"wide-shining\")[2] was the daughter of Helios, the Sun, by the eldest[3] of the Oceanids, Perse.[4]",
+    "link": "http://en.wikipedia.org/wiki/Pasiphae",
+    "thumbnail": "/img/entity_pasiphae.jpg",
+    "works": ["eclogues", "aeneid"],
+    "slug": "pasiphae"
+}, {
+    "_id": {
+        "$oid": "54bd8996b7efdad76ec45584"
+    },
+    "en_name": "pentheus",
+    "desc": "In Greek mythology, Pentheus (/ˈpɛnθuːs/ or /ˈpɛnθjuːs/; Greek: Πενθεύς) was a king of Thebes. His father was Echion, the wisest of the Spartoi. His mother was Agave, the daughter of Cadmus, the founder of Thebes, and the goddess Harmonia. His sister was Epeiros.",
+    "link": "http://en.wikipedia.org/wiki/Pentheus",
+    "thumbnail": "/img/entity_pentheus.jpg",
+    "works": ["aeneid"],
+    "slug": "pentheus"
+}, {
+    "_id": {
+        "$oid": "54bd89dfb7efdad76ec45585"
+    },
+    "en_name": "phaedra",
+    "desc": "Phaedra can refer to Phaedra (mythology). The term may also refer to:",
+    "link": "http://en.wikipedia.org/wiki/Phaedra",
+    "thumbnail": "",
+    "works": ["aeneid"],
+    "slug": "phaedra"
+}, {
+    "_id": {
+        "$oid": "54bd8a28b7efdad76ec45586"
+    },
+    "en_name": "phlegethon",
+    "desc": "In Greek mythology, the river Phlegethon (Φλεγέθων, English translation: \"flaming\") or Pyriphlegethon (Πυριφλεγέθων, English translation: \"fire-flaming\") was one of the five rivers in the infernal regions of the underworld, along with the rivers Styx, Lethe, Cocytus, and Acheron. Plato describes it as \"a stream of fire, which coils round the earth and flows into the depths of Tartarus.\"[1] It was parallel to the river Styx. It is said that the goddess Styx was in love with Phlegethon, but she was consumed by his flames and sent to Hades. Eventually when Hades allowed her river to flow through, they reunited.[citation needed]",
+    "link": "http://en.wikipedia.org/wiki/Phlegethon",
+    "thumbnail": "",
+    "works": ["aeneid"],
+    "slug": "phlegethon"
+}, {
+    "_id": {
+        "$oid": "54bd8a71b7efdad76ec45587"
+    },
+    "en_name": "pluto",
+    "desc": "",
+    "link": "http://en.wikipedia.org/wiki/Pluto",
+    "thumbnail": "",
+    "works": ["aeneid"],
+    "slug": "pluto"
+}, {
+    "_id": {
+        "$oid": "54bd8abab7efdad76ec45588"
+    },
+    "en_name": "portunus",
+    "desc": "",
+    "link": "http://en.wikipedia.org/wiki/Portunus",
+    "thumbnail": "",
+    "works": ["aeneid"],
+    "slug": "portunus"
+}, {
+    "_id": {
+        "$oid": "54bd8b03b7efdad76ec45589"
+    },
+    "en_name": "priam",
+    "desc": "In Greek mythology, Priam (/ˈpraɪ.əm/; Greek: Πρίαμος Príamos, pronounced [prí.amos]) was the king of Troy during the Trojan War and youngest son of Laomedon.",
+    "link": "http://en.wikipedia.org/wiki/Priam",
+    "thumbnail": "/img/entity_priam.jpg",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "priam"
+}, {
+    "_id": {
+        "$oid": "54bd8b4db7efdad76ec4558a"
+    },
+    "en_name": "proserpina",
+    "desc": "Proserpina (/proʊˈsɜrpɪnə/)[1] or Proserpine (/proʊˈsɜrpɪˌni, ˈprɒsərˌpaɪn/)[1] is an ancient Roman goddess whose cult, myths and mysteries were based on those of Greek Persephone and her mother Demeter, the Greek goddess of grain and agriculture. The Romans identified Proserpina with their native fertility goddess Libera, daughter of the grain and agriculture goddess Ceres and wife to Liber. In 204 BC, a new \"greek-style\" cult to Ceres and Proserpina as \"Mother and Maiden\" was imported from southern Italy, along with Greek priestesses to serve it, and was installed in Ceres' Temple on Rome's Aventine Hill. The new cult and its priesthood were actively promoted by Rome's religious authorities as morally desirable for respectable Roman women, and may have partly subsumed the temple's older, native cult to Ceres, Liber and Libera; but the new rites seems to have functioned alongside the old, rather than replaced them.",
+    "link": "http://en.wikipedia.org/wiki/Proserpina",
+    "thumbnail": "/img/entity_proserpina.jpg",
+    "works": ["georgics", "aeneid"],
+    "slug": "proserpina"
+}, {
+    "_id": {
+        "$oid": "54bd8b98b7efdad76ec4558b"
+    },
+    "en_name": "pygmalion",
+    "desc": "Pygmalion (/pɪɡˈmeɪliən/; Greek: Πυγμαλίων, gen.: Πυγμαλίωνος) is a legendary figure of Cyprus. Though Pygmalion is the Greek version of the Phoenician royal name Pumayyaton,[2] he is most familiar from Ovid's narrative poem Metamorphoses, in which Pygmalion was a sculptor who fell in love with a statue he had carved.",
+    "link": "http://en.wikipedia.org/wiki/Pygmalion_(mythology)",
+    "thumbnail": "/img/entity_pygmalion.jpg",
+    "works": ["aeneid"],
+    "slug": "pygmalion"
+}, {
+    "_id": {
+        "$oid": "54bd8be1b7efdad76ec4558c"
+    },
+    "en_name": "pyrrhus",
+    "desc": "",
+    "link": "http://en.wikipedia.org/wiki/Pyrrhus_(mythology)",
+    "thumbnail": "",
+    "works": ["eclogues", "aeneid"],
+    "slug": "pyrrhus"
+}, {
+    "_id": {
+        "$oid": "54bd8c2cb7efdad76ec4558d"
+    },
+    "en_name": "quirinus",
+    "desc": "In Roman mythology and religion, Quirinus (/kwɪˈraɪnəs/[2]) is an early god of the Roman state. In Augustan Rome, Quirinus was also an epithet of Janus, as Janus Quirinus.[3] His name may be derived from the Sabine word quiris \"spear.\"",
+    "link": "http://en.wikipedia.org/wiki/Quirinus",
+    "thumbnail": "/img/entity_quirinus.jpg",
+    "works": ["georgics", "aeneid"],
+    "slug": "quirinus"
+}, {
+    "_id": {
+        "$oid": "54bd8c76b7efdad76ec4558e"
+    },
+    "en_name": "remus",
+    "desc": "Romulus /ˈrɒmjʉləs/ and Remus /ˈriːməs/ are the twin brothers and main characters of Rome's foundation myth. Their mother is Rhea Silvia, daughter of Numitor, king of Alba Longa. Before their conception, Numitor's brother Amulius seizes power, kills Numitor's male heirs and forces Rhea Silvia to become a Vestal Virgin, sworn to chastity. Rhea Silvia conceives the twins by the god Mars, or by the demi-god Hercules. Once the twins are born, Amulius has them abandoned to die in the river Tiber. They are saved by a series of miraculous interventions: the river carries them to safety, a she-wolf (in Latin, lupa) finds and suckles them, and a woodpecker feeds them. A shepherd and his wife find them and foster them to manhood, as simple shepherds. The twins, still ignorant of their true origins, prove to be natural leaders. Each acquires many followers. When they discover the truth of their birth, they kill Amulius and restore Numitor to his throne. Rather than wait to inherit Alba Longa, they choose to found a new city.",
+    "link": "http://en.wikipedia.org/wiki/Remus",
+    "thumbnail": "/img/entity_remus.jpg",
+    "works": ["georgics", "aeneid", "eclogues"],
+    "slug": "remus"
+}, {
+    "_id": {
+        "$oid": "54bd8ce6b7efdad76ec4558f"
+    },
+    "en_name": "rhadamanthus",
+    "desc": "In Greek mythology, Rhadamanthus (/ˌrædəˈmænθəs/) or Rhadamanthys (Ancient Greek: Ῥαδάμανθυς) was a wise king, the son of Zeus and Europa. Later accounts even make him out to be one of the judges of the dead. His brothers were Sarpedon and Minos (also a king and later a judge of the dead).[1]",
+    "link": "http://en.wikipedia.org/wiki/Rhadamanthus",
+    "thumbnail": "",
+    "works": ["aeneid"],
+    "slug": "rhadamanthus"
+}, {
+    "_id": {
+        "$oid": "54bd8d30b7efdad76ec45590"
+    },
+    "en_name": "rome",
+    "desc": "Rome (/ˈroʊm/, Italian: Roma [ˈroːma] ( listen), Latin: Rōma) is a city and special comune (named \"Roma Capitale\") in Italy. Rome is the capital of Italy and also of the omonymous metropolitan city and of the region of Lazio. With 2.9 million residents in 1,285.3 km2 (496.3 sq mi), it is also the country's largest and most populated comune and fourth-most populous city in the European Union by population within city limits. The urban area of Rome extends beyond the administrative city limits with a population of around 3.8 million.[2] Between 3.2 and 4.2 million people live in the Rome metropolitan area.[3][4][5][6][7] The city is located in the central-western portion of the Italian Peninsula, within Lazio (Latium), along the shores of Tiber river. Vatican City is an independent country within the city boundaries of Rome, the only existing example of a country within a city: for this reason Rome has been often defined as capital of two states.[8][9]",
+    "link": "http://en.wikipedia.org/wiki/Rome",
+    "thumbnail": "/img/entity_rome.jpg",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "rome"
+}, {
+    "_id": {
+        "$oid": "54bd8d7ab7efdad76ec45591"
+    },
+    "en_name": "romulus",
+    "desc": "Romulus /ˈrɒmjʉləs/ and Remus /ˈriːməs/ are the twin brothers and main characters of Rome's foundation myth. Their mother is Rhea Silvia, daughter of Numitor, king of Alba Longa. Before their conception, Numitor's brother Amulius seizes power, kills Numitor's male heirs and forces Rhea Silvia to become a Vestal Virgin, sworn to chastity. Rhea Silvia conceives the twins by the god Mars, or by the demi-god Hercules. Once the twins are born, Amulius has them abandoned to die in the river Tiber. They are saved by a series of miraculous interventions: the river carries them to safety, a she-wolf (in Latin, lupa) finds and suckles them, and a woodpecker feeds them. A shepherd and his wife find them and foster them to manhood, as simple shepherds. The twins, still ignorant of their true origins, prove to be natural leaders. Each acquires many followers. When they discover the truth of their birth, they kill Amulius and restore Numitor to his throne. Rather than wait to inherit Alba Longa, they choose to found a new city.",
+    "link": "http://en.wikipedia.org/wiki/Romulus",
+    "thumbnail": "/img/entity_romulus.jpg",
+    "works": ["georgics", "aeneid"],
+    "slug": "romulus"
+}, {
+    "_id": {
+        "$oid": "54bd8dc3b7efdad76ec45592"
+    },
+    "en_name": "rutulia",
+    "desc": "",
+    "link": "http://en.wikipedia.org/wiki/Rutulia_(mythology)",
+    "thumbnail": "",
+    "works": ["aeneid"],
+    "slug": "rutulia"
+}, {
+    "_id": {
+        "$oid": "54bd8e0db7efdad76ec45593"
+    },
+    "en_name": "sarpedon",
+    "desc": "Sarpedon (/sɑrˈpiːdən, -ˈpiːdɒn/; Ancient Greek: Σαρπηδών; gen.: Σαρπηδόνος) was a common name in ancient Greece and in the Roman Empire.",
+    "link": "http://en.wikipedia.org/wiki/Sarpedon",
+    "thumbnail": "/img/entity_sarpedon.jpg",
+    "works": ["aeneid"],
+    "slug": "sarpedon"
+}, {
+    "_id": {
+        "$oid": "54bd8e56b7efdad76ec45594"
+    },
+    "en_name": "saturn",
+    "desc": "",
+    "link": "http://en.wikipedia.org/wiki/Saturn",
+    "thumbnail": "",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "saturn"
+}, {
+    "_id": {
+        "$oid": "54bd8e9fb7efdad76ec45595"
+    },
+    "en_name": "scylla",
+    "desc": "In Greek mythology, Scylla[1] (/ˈsɪlə/ SIL-ə; Greek: Σκύλλα, pronounced [skýl̚la], Skylla) was a monster that lived on one side of a narrow channel of water, opposite its counterpart Charybdis. The two sides of the strait were within an arrow's range of each other—so close that sailors attempting to avoid Charybdis would pass too close to Scylla and vice versa.",
+    "link": "http://en.wikipedia.org/wiki/Scylla",
+    "thumbnail": "/img/entity_scylla.jpg",
+    "works": ["eclogues", "aeneid", "georgics"],
+    "slug": "scylla"
+}, {
+    "_id": {
+        "$oid": "54bd8f32b7efdad76ec45596"
+    },
+    "en_name": "sparta",
+    "desc": "Coordinates: 37°4′55″N 22°25′25″E﻿ / ﻿37.08194°N 22.42361°E﻿ / 37.08194; 22.42361",
+    "link": "http://en.wikipedia.org/wiki/Sparta",
+    "thumbnail": "",
+    "works": ["georgics", "aeneid"],
+    "slug": "sparta"
+}, {
+    "_id": {
+        "$oid": "54bd8f7bb7efdad76ec45597"
+    },
+    "en_name": "styx",
+    "desc": "The Styx (/stɪks/; Ancient Greek: Στύξ [stýkʰs], \"Hate, Detest\") is a river in Greek mythology that formed the boundary between Earth and the Underworld (the domain usually called Hades, which is also the name of its ruler). The rivers Styx, Phlegethon, Acheron, Lethe, and Cocytus all converge at the center of the underworld on a great marsh, which is also sometimes called the Styx. According to Herodotus the river Styx originates near Feneos.[1]",
+    "link": "http://en.wikipedia.org/wiki/Styx",
+    "thumbnail": "/img/entity_styx.jpg",
+    "works": ["georgics", "aeneid"],
+    "slug": "styx"
+}, {
+    "_id": {
+        "$oid": "54bd900fb7efdad76ec45598"
+    },
+    "en_name": "sychaeus",
+    "desc": "Acerbas, a Tyrian priest of Hercules, who married Elissa, the daughter of king Mutgo, and sister of Pygmalion. He was possessed of considerable wealth, which, knowing the avarice of Pygmalion, who had succeeded his father, he concealed in the earth. But Pygmalion, who heard of these hidden treasures, had Acerbas murdered, in hopes that through his sister he might obtain possession of them. But the prudence of Elissa saved the treasures, and she emigrated from Phoenicia.[1] They landed and settled in North Africa, founding the city of Carthage.",
+    "link": "http://en.wikipedia.org/wiki/Sychaeus",
+    "thumbnail": "/img/entity_sychaeus.png",
+    "works": ["aeneid"],
+    "slug": "sychaeus"
+}, {
+    "_id": {
+        "$oid": "54bd9059b7efdad76ec45599"
+    },
+    "en_name": "syrtes",
+    "desc": "",
+    "link": "http://en.wikipedia.org/wiki/Syrtes_(mythology)",
+    "thumbnail": "",
+    "works": ["aeneid"],
+    "slug": "syrtes"
+}, {
+    "_id": {
+        "$oid": "54bd90a3b7efdad76ec4559a"
+    },
+    "en_name": "tarquin",
+    "desc": "",
+    "link": "http://en.wikipedia.org/wiki/Tarquin_(mythology)",
+    "thumbnail": "",
+    "works": ["aeneid"],
+    "slug": "tarquin"
+}, {
+    "_id": {
+        "$oid": "54bd90eeb7efdad76ec4559b"
+    },
+    "en_name": "tartarus",
+    "desc": "Tartarus (/ˈtɑrtərəs/, TAR-tə-rəs; Greek: Τάρταρος Tartaros),[1] in ancient Greek mythology, is the deep abyss that is used as a dungeon of torment and suffering for the wicked and as the prison for the Titans.[2] As far below Hades as the earth is below the heavens,[2] Tartarus is the place where, according to Plato in Gorgias (c. 400 BC), souls were judged after death and where the wicked received punishment. Like other primal entities (such as the earth and time), Tartarus was also considered to be a primordial force or deity.",
+    "link": "http://en.wikipedia.org/wiki/Tartarus",
+    "thumbnail": "/img/entity_tartarus.jpg",
+    "works": ["georgics", "aeneid"],
+    "slug": "tartarus"
+}, {
+    "_id": {
+        "$oid": "54bd9138b7efdad76ec4559c"
+    },
+    "en_name": "tatius",
+    "desc": "The traditions of ancient Rome held that Titus Tatius (died 748 BC) was the Sabine king of Cures, who, after the rape of the Sabine women, attacked Rome and captured the Capitol with the treachery of Tarpeia. The Sabine women, however, convinced Tatius and the Roman king, Romulus, to reconcile and subsequently they ruled jointly over the Romans and Sabines. Rome was to retain its name and each citizen was to be called a Roman, but as a community they were to be called Quirites; the Sabines were to be incorporated in the state and admitted into the tribes and curies. After this arrangement had lasted for five years it came to an end by the death of Tatius, who was killed out of revenge by the inhabitants of Lavinium, leaving Romulus to rule alone, and Tatius is thus not counted as one of the traditional \"Seven Kings of Rome\".",
+    "link": "http://en.wikipedia.org/wiki/Tatius",
+    "thumbnail": "/img/entity_tatius.jpg",
+    "works": [],
+    "slug": "tatius"
+}, {
+    "_id": {
+        "$oid": "54bd91ccb7efdad76ec4559d"
+    },
+    "en_name": "teucer",
+    "desc": "In Greek mythology Teucer (/ˈtjuːsər/), also Teucrus, Teucros or Teucris (Greek: Τεῦκρος, Teukros), was the son of King Telamon of Salamis Island and Hesione, daughter of King Laomedon of Troy. He fought alongside his half-brother, Ajax, in the Trojan War and is the legendary founder of the city of Salamis on Cyprus. Through his mother, Teucer was the nephew of King Priam of Troy and the cousin of Hector and Paris - all of whom he fought against in the Trojan War.",
+    "link": "http://en.wikipedia.org/wiki/Teucer",
+    "thumbnail": "/img/entity_teucer.jpg",
+    "works": ["aeneid"],
+    "slug": "teucer"
+}, {
+    "_id": {
+        "$oid": "54bd9217b7efdad76ec4559e"
+    },
+    "en_name": "theseus",
+    "desc": "Theseus (/ˈθiːsiːəs/; Ancient Greek: Θησεύς [tʰɛːsěu̯s]) was the mythical[1] founder-king of Athens and was the son of Aethra by two fathers: Aegeus and Poseidon.",
+    "link": "http://en.wikipedia.org/wiki/Theseus",
+    "thumbnail": "/img/entity_theseus.jpg",
+    "works": ["aeneid"],
+    "slug": "theseus"
+}, {
+    "_id": {
+        "$oid": "54bd9262b7efdad76ec4559f"
+    },
+    "en_name": "tiber",
+    "desc": "The Tiber (/ˈtaɪbər/, Latin Tiberis, Italian Tevere, Italian pronunciation: [ˈteːvere])[1] is the third-longest river in Italy, rising in the Apennine Mountains in Emilia-Romagna and flowing 406 kilometres (252 mi) through Umbria and Lazio, where it is joined by the Aniene river, to the Tyrrhenian Sea.[2] It drains a basin estimated at 17,375 square kilometres (6,709 sq mi). The river has achieved lasting fame as the main watercourse of the city of Rome, founded on its eastern banks.",
+    "link": "http://en.wikipedia.org/wiki/Tiber",
+    "thumbnail": "/img/entity_tiber.JPG",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "tiber"
+}, {
+    "_id": {
+        "$oid": "54bd92adb7efdad76ec455a0"
+    },
+    "en_name": "tithonus",
+    "desc": "In Greek mythology, Tithonus or Tithonos (pronounced [tɪˈθoʊnəs] or [taɪ-]; Ancient Greek: Τιθωνός) was the lover of Eos, Titan[1] of the dawn, who was known in Roman mythology as Aurora. Tithonus was a Trojan by birth, the son of King Laomedon of Troy by a water nymph named Strymo (Στρυμώ). The mythology reflected by the fifth-century vase-painters of Athens envisaged Tithonus as a rhapsode, as the lyre in his hand, on an oinochoe of the Achilles Painter, ca. 470 BC–460 BCE (illustration) attests. Competitive singing, as in the Contest of Homer and Hesiod, is also depicted vividly in the Homeric Hymn to Apollo and mentioned in the two Hymns to Aphrodite.[2]",
+    "link": "http://en.wikipedia.org/wiki/Tithonus",
+    "thumbnail": "/img/entity_tithonus.jpg",
+    "works": ["georgics", "aeneid"],
+    "slug": "tithonus"
+}, {
+    "_id": {
+        "$oid": "54bd92f8b7efdad76ec455a1"
+    },
+    "en_name": "triton",
+    "desc": "Triton (/ˈtraɪtən/; Greek: Τρίτων Tritōn) is a mythological Greek god, the messenger of the sea. He is the son of Poseidon and Amphitrite, god and goddess of the sea respectively, and is herald for his father. He is usually represented as a merman, having the upper body of a human and the tail of a fish, \"sea-hued\", according to Ovid[1] \"his shoulders barnacled with sea-shells\".",
+    "link": "http://en.wikipedia.org/wiki/Triton_(mythology)",
+    "thumbnail": "/img/entity_triton.jpg",
+    "works": ["georgics", "aeneid"],
+    "slug": "triton"
+}, {
+    "_id": {
+        "$oid": "54bd9342b7efdad76ec455a2"
+    },
+    "en_name": "trivia",
+    "desc": "The trivia (singular trivium) are three lower Artes Liberales, i.e. grammar, logic and rhetoric. These were the topics of basic education, foundational to the quadrivia of higher education, and hence the material of basic education and an important building block for all undergraduates. The word trivia was also used to describe a place where three roads met in Ancient Rome. While the term is now obsolescent, in ancient times, it was appropriated to mean something very new.",
+    "link": "http://en.wikipedia.org/wiki/Trivia",
+    "thumbnail": "",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "trivia"
+}, {
+    "_id": {
+        "$oid": "54bd938cb7efdad76ec455a3"
+    },
+    "en_name": "troy",
+    "desc": "Troy (Ancient Greek: Ἴλιον, Ilion, or Ἴλιος, Ilios; and Τροία, Troia; Latin: Trōia and Īlium;[note 1] Hittite: Wilusa or Truwisa;[1][2] Turkish: Truva) is a city well-known to both history and legend (as well as archaeology), and was situated in northwest Anatolia in what is now Turkey (but which was known in Classical sources as Asia Minor), located south of the southwest end of the Dardanelles/Hellespont and northwest of Mount Ida at Hisaronu. It is best known for being the setting of the Trojan War described in the Greek Epic Cycle and especially in the Iliad, one of the two epic poems attributed to Homer. Metrical evidence from the Iliad and the Odyssey seems to show that the name Ἴλιον (Ilion) formerly began with a digamma: Ϝίλιον (Wilion). This was later supported by the Hittite form Wilusa.",
+    "link": "http://en.wikipedia.org/wiki/Troy",
+    "thumbnail": "/img/entity_troy.jpg",
+    "works": ["georgics", "aeneid", "eclogues"],
+    "slug": "troy"
+}, {
+    "_id": {
+        "$oid": "54bd93d6b7efdad76ec455a4"
+    },
+    "en_name": "turnus",
+    "desc": "In Virgil's Aeneid, Turnus was the King of the Rutuli, and the chief antagonist of the hero Aeneas.",
+    "link": "http://en.wikipedia.org/wiki/Turnus",
+    "thumbnail": "/img/entity_turnus.jpg",
+    "works": ["aeneid"],
+    "slug": "turnus"
+}, {
+    "_id": {
+        "$oid": "54bd9422b7efdad76ec455a5"
+    },
+    "en_name": "ulysses",
+    "desc": "Ulysses is derived from Ulixes, the Latin name for Odysseus, a character in ancient Greek literature. For more on the name Ulysses, see Ulysses (given name).",
+    "link": "http://en.wikipedia.org/wiki/Ulysses",
+    "thumbnail": "",
+    "works": ["eclogues", "aeneid"],
+    "slug": "ulysses"
+}, {
+    "_id": {
+        "$oid": "54bd946cb7efdad76ec455a6"
+    },
+    "en_name": "venus",
+    "desc": "",
+    "link": "http://en.wikipedia.org/wiki/Venus",
+    "thumbnail": "",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "venus"
+}, {
+    "_id": {
+        "$oid": "54bd94b9b7efdad76ec455a7"
+    },
+    "en_name": "vesta",
+    "desc": "Vesta (Latin pronunciation: [ˈwɛsta]) is the virgin goddess of the hearth, home, and family in Roman religion. Vesta's presence is symbolized by the sacred fire that burned at her hearth and temples. Her closest Greek equivalent is Hestia.[1]",
+    "link": "http://en.wikipedia.org/wiki/Vesta_(mythology)",
+    "thumbnail": "/img/entity_vesta.png",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "vesta"
+}, {
+    "_id": {
+        "$oid": "54bd9502b7efdad76ec455a8"
+    },
+    "en_name": "vulcan",
+    "desc": "In ancient Roman religion and myth, Vulcan (Latin: Volcānus or Vulcānus; pronounced [wɔl.ˈkaː.nus], [wul.ˈkaː.nus]) is the god of fire[1] including the fire of volcanoes, also god of metalworking and the forge. Vulcan is often depicted with a blacksmith's hammer.[2] The Vulcanalia was the annual festival held August 23 in his honor. His Greek counterpart is Hephaestus, the god of fire and smithery. In Etruscan religion, he is identified with Sethlans.",
+    "link": "http://en.wikipedia.org/wiki/Vulcanus",
+    "thumbnail": "/img/entity_vulcan.jpg",
+    "works": ["georgics", "aeneid"],
+    "slug": "vulcan"
+}, {
+    "_id": {
+        "$oid": "54bd954cb7efdad76ec455a9"
+    },
+    "en_name": "xanthus",
+    "desc": "",
+    "link": "http://en.wikipedia.org/wiki/Xanthus_(mythology)",
+    "thumbnail": "",
+    "works": ["aeneid"],
+    "slug": "xanthus"
+}, {
+    "_id": {
+        "$oid": "54bd959bb7efdad76ec455aa"
+    },
+    "en_name": "zephyrus",
+    "desc": "In ancient Greek religion and myth, the Anemoi (Greek: Ἄνεμοι, \"Winds\")[n 1] were Greek wind gods who were each ascribed a cardinal direction from which their respective winds came (see Classical compass winds), and were each associated with various seasons and weather conditions. They were sometimes represented as mere gusts of wind, at other times were personified as winged men, and at still other times were depicted as horses kept in the stables of the storm god Aeolus, who provided Odysseus with the Anemoi in the Odyssey. The Spartans were reported to sacrifice a horse to the winds on Mount Taygetus.[2] Astraeus, the astrological deity sometimes associated with Aeolus, and Eos, the goddess of the dawn, were the parents of the Anemoi, according to the Greek poet Hesiod.",
+    "link": "http://en.wikipedia.org/wiki/Zephyrus",
+    "thumbnail": "/img/entity_zephyrus.jpg",
+    "works": ["georgics", "eclogues", "aeneid"],
+    "slug": "zephyrus"
+}]
