@@ -3,17 +3,19 @@
 Returns JSON data about humans, places, and God(desse)s that appear in the works of Virgil, by id, name, and work they appear in.
 
 - URL  
+  /list  
   /list/:id  
-  /list/name/:name  
-  /list/work/:work  
+   /list/name/:name  
+   /list/work/:work
 
 - Method  
-`Get`  
+  `Get`
 
 - URL Params  
-Required:  
+  Required:
+
 ```
-id = string  
-name = string  
+id = string
+name = string
 work = string
-```  
+```
