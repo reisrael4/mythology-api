@@ -1,12 +1,12 @@
 # Greek and Roman Mythology
 
-Returns JSON data about humans, places, and God(desse)s that appear in the works of Virgil, by id, name, and work they appear in.
+API containing JSON data about humans, places, and God(desse)s that appear in the works of Virgil, searchable by id, name, and work they appear in. Built using MongoDB, Mongoose, Express, and Body-Parser. 
 
 - URL  
-  /list  
-  /list/:id  
-   /list/name/:name  
-   /list/work/:work
+  /list (Displays the full list of entities)  
+  /list/:id (Allows search by specific id)  
+   /list/name/:name (Allows search by name)  
+   /list/work/:work (Allows search by work)
 
 - Method  
   `Get`
