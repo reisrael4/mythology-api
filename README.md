@@ -7,6 +7,4 @@ Returns JSON data about humans, places, and God(desse)s that appear in the works
 /list/work/:work
 
 * Method
-```
-Get
-```
+`Get`
