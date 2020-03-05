@@ -11,6 +11,7 @@ Returns JSON data about humans, places, and God(desse)s that appear in the works
 `Get`  
 
 - URL Params  
+Required:  
 ```
 id = string  
 name = string  
