@@ -39,6 +39,11 @@ app.get("/list/work/:work", (req, res) => {
 //   });
 // });
 
-app.listen(3000, () =>
-  console.log("Is your server running? Better go catch it!")
-);
+// app.listen(3000, () =>
+//   console.log("Is your server running? Better go catch it!")
+// );
+app.set("port", process.env.PORT || 8080);
+
+app.listen(app.get("port"), () => {
+  console.log(`✅ PORT: ${app.get("port")} 🌟`);
+});
