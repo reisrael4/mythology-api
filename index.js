@@ -2,8 +2,10 @@ const express = require("express");
 const app = express();
 const parser = require("body-parser");
 const List = require("./models/List");
+const cors = require("cors");
 
 app.use(parser.json());
+app.use(cors());
 
 app.get("/", (req, res) => {
   return res.redirect("/list");
